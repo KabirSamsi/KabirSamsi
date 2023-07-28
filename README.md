@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there! I'm Kabir.
 
-<!--
-**KabirSamsi/KabirSamsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm an undergraduate student at Cornell University studying Computer Science, Math and Music. Much of my work has been about trying to intersect CS with other disciplines.
 
-Here are some ideas to get you started:
+## Main Skills and Interests
+- Full-Stack Development
+- Machine Learning
+- Databases and Schema Design
+- Data Analysis
+- Interpreters
+  
+## Languages and Frameworks
+- # Full-Stack Development
+  - JavaScript
+  - MEAN (Mongo, Express, Angular, Node)
+  - Flask
+  - SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- # ML/Data Analysis
+  - Python
+  - Pandas, Numpy, TensorFlow, Keras
+
+- # Other
+  - Java
+  - C++
+  - OCaml
+  - Ruby

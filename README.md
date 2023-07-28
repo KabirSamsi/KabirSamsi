@@ -1,7 +1,9 @@
 ### Hi there! I'm Kabir.
 
 ## About Me
-I'm an undergraduate student at Cornell University studying Computer Science, Math and Music. Much of my work has been about trying to intersect CS with other disciplines.
+I'm an undergraduate student at Cornell University studying CS, Math and Music. Much of my work has been about trying to intersect CS with other disciplines.
+
+My current interests lie in applying PL theory and computer vision in improving music recognition and development,
 
 ## Main Skills and Interests
 - Full-Stack Development

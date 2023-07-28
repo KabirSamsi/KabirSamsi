@@ -14,19 +14,10 @@ However, recently my work has shifted away from fullstack engineering and more t
   
 ## Languages and Frameworks
   ### Full-Stack Development
-  - JavaScript, HTML, CSS
-  - MEAN (Mongo, Express, Angular, Node)
-  - Flask
-  - SQL
+  - JavaScript, HTML, CSS; MEAN (Mongo, Express, Angular, Node); Flask; SQL
 
   ### ML/Data Analysis
-  - Python
-  - Pandas
-  - Numpy
-  - TensorFlow, Keras
+  - Python; Pandas; Numpy; TensorFlow, Keras
 
   ### Other
-  - Java
-  - C++
-  - OCaml
-  - Ruby
+  - Java; C; C++; OCaml; Ruby

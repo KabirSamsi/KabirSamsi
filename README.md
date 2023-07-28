@@ -8,9 +8,9 @@ However, recently my work has shifted away from fullstack engineering and more t
 ## Main Skills and Interests
 - Full-Stack Development
 - Machine Learning
-- Data Analysis
-- Database and Schema Design
 - Interpreters and Programming Languages
+- Database and Schema Design
+- Data Analysis
   
 ## Languages and Frameworks
   ### Full-Stack Development

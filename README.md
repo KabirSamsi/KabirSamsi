@@ -11,19 +11,19 @@ I'm an undergraduate student at Cornell University studying Computer Science, Ma
 - Interpreters
   
 ## Languages and Frameworks
-  # Full-Stack Development
+  ### Full-Stack Development
   - JavaScript
   - MEAN (Mongo, Express, Angular, Node)
   - Flask
   - SQL
 
-  # ML/Data Analysis
+  ### ML/Data Analysis
   - Python
   - Pandas
   - Numpy
   - TensorFlow, Keras
 
-  # Other Languages
+  ### Other Languages
   - Java
   - C++
   - OCaml

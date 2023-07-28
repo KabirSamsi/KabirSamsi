@@ -11,7 +11,7 @@ I'm an undergraduate student at Cornell University studying Computer Science, Ma
 - Interpreters
   
 ## Languages and Frameworks
-  ### Full-Stack Development
+    ### Full-Stack Development
   - JavaScript
   - MEAN (Mongo, Express, Angular, Node)
   - Flask

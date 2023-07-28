@@ -1,12 +1,12 @@
-### Hi there! I'm Kabir.
+### Greetings! I'm Kabir.
 
 ## About Me
-I'm an undergraduate student at Cornell University studying CS, Math and Music. Much of my work has been about trying to intersect CS with other disciplines.
+I'm an undergraduate student at Cornell University studying CS, Math and Music, and a research assistant at the Cornell Lab of Ornithology.
 
-I began my formal software engineering journey in Web Development, and as such much of my work has involved designing databases and webservers to assist with areas of my interests – on display here include avian identification software and community intranet networks. However, recently my work has shifted more towards interpreter design, programming languages and computer vision, and their applications to areas beyond computer science.
+Much of work has involved designing databases and webservers that can form an intersection with other areas of my interests, some of which are on display here. However, recently my work has shifted more towards interpreter design, programming languages and computer vision, and their applications to areas beyond computer science.
 
 ## Current Interests
-My current interests lie primarily in PL theory and computer vision. I'm also continuing my work in improving technology to assist with ornithology, developing faster and more streamlined bird logging tool utilizing the EBird API.
+My current interests lie primarily in PL theory and computer vision, and in particular application to improved music development and recognition software. I am also working on developing improved software to track and log bird sightings.
 
 ## Main Skills and Interests
 - Full-Stack Development
@@ -17,7 +17,7 @@ My current interests lie primarily in PL theory and computer vision. I'm also co
   
 ## Languages and Frameworks
   ### Full-Stack Development
-  - JavaScript
+  - JavaScript, HTML, CSS
   - MEAN (Mongo, Express, Angular, Node)
   - Flask
   - SQL
@@ -28,7 +28,7 @@ My current interests lie primarily in PL theory and computer vision. I'm also co
   - Numpy
   - TensorFlow, Keras
 
-  ### Other Languages
+  ### Other
   - Java
   - C++
   - OCaml

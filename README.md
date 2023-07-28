@@ -3,7 +3,7 @@
 ## About Me
 I'm an undergraduate student at Cornell University studying CS, Math and Music, and a research assistant at the Cornell Lab of Ornithology. Much of work has involved designing databases and webservers that can form an intersection with other areas of my interests, some of which are on display here. 
 
-However, recently my work has shifted away from fullstack engineering and more towards the design and applciation of interpreters, programming languages and computer vision. In particular, a lot of my current work focuses on its application to improve music development and recognition software.
+However, recently my work has shifted away from fullstack engineering and more towards the design and application of interpreters, programming languages and computer vision. In particular, a lot of my current work focuses on its application to improve music development and recognition software.
 
 ## Main Skills and Interests
 - Full-Stack Development
@@ -14,10 +14,10 @@ However, recently my work has shifted away from fullstack engineering and more t
   
 ## Languages and Frameworks
   ### Full-Stack Development
-  - JavaScript, HTML, CSS; MEAN (Mongo, Express, Angular, Node); Flask; SQL
+  JavaScript, HTML/CSS, MEAN (Mongo, Express, Angular, Node), Flask, SQL
 
   ### ML/Data Analysis
-  - Python; Pandas; Numpy; TensorFlow, Keras
+  Python, Pandas, Numpy, TensorFlow, Keras
 
   ### Other
-  - Java; C; C++; OCaml; Ruby
+  Java, C, C++, OCaml, Ruby

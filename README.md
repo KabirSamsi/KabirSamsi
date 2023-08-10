@@ -21,5 +21,5 @@ Currently, my work comprises applied fullstack and API development as well as de
   
 
 ## Current Projects 🌱
-- **CollaBirder** – An improved information/connection platform for birders utilizing the EBird API and network modeling
+- **CollabBirder** – An improved information/connection platform for birders utilizing the EBird API and network modeling
 - **Franz** – Hybrid programming language and interpreter for composing, representing and evaluating music and musical notation

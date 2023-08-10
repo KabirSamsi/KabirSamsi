@@ -13,14 +13,14 @@ Currently, my work comprises   as well as design and application of interpreters
 - Data Analysis
   
 ## 🔧 Tools and Technologies
-  ### Full-Stack Development
+   ### Full-Stack Development
   JavaScript, HTML/CSS, MEAN (Mongo, Express, Angular, Node), Flask, SQL
 
-  ### ML/Data Analysis
-  Python, Pandas, Numpy, TensorFlow, Keras
+   ### ML/Data Analysis
+   Python, Pandas, Numpy, TensorFlow, Keras
 
-  ### Other
-  Java, C, C++, OCaml, Ruby
+   ### Other
+   Java, C, C++, OCaml, Ruby
 
 ## 🌱 Current Projects
 - **CollaBirder** – Application utilizing the EBird API to develop improved access to information and networking for birders

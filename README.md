@@ -5,14 +5,14 @@ I'm an undergraduate student at Cornell University studying CS, Math and Music, 
 
 Currently, my work comprises   as well as design and application of interpreters, programming languages and computer vision. In particular, a lot of my current work focuses on its application to improve music development and recognition software.
 
-## Main Skills and Interests
+## 💡 Main Skills and Interests
 - Full-Stack Development
 - Machine Learning
 - Interpreters and Programming Languages
 - Database and Schema Design
 - Data Analysis
   
-## Languages and Frameworks
+## 🔧 Tools and Technologies
   ### Full-Stack Development
   JavaScript, HTML/CSS, MEAN (Mongo, Express, Angular, Node), Flask, SQL
 
@@ -22,6 +22,6 @@ Currently, my work comprises   as well as design and application of interpreters
   ### Other
   Java, C, C++, OCaml, Ruby
 
-## Current Projects
-- **CollaBirder** – Application utilizing the EBird API to develop improved 
+## 🌱 Current Projects
+- **CollaBirder** – Application utilizing the EBird API to develop improved access to information and networking for birders
 - **Franz** – Hybrid programming language and musical interpreter designed for composing, representing and evaluating music

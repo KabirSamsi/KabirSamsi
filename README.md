@@ -16,7 +16,7 @@ Currently, my work comprises applied fullstack and API development as well as de
   ### Languages
   JavaScript (MEAN, React, TypeScript), HTML/CSS, Python (Flask, Pandas, Numpy, TF, PyTorch, Keras), Java, C, C++, OCaml, Ruby, Swift
 
-  ### Tools and Technologies
+  ### Frameworks/Tools
   MongoDB, SQL, PostgreQL, Neo4j, AWS Lambda, Linux, Git
   
 

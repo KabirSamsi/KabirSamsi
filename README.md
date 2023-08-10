@@ -13,14 +13,12 @@ Currently, my work comprises applied fullstack and API development as well as de
 - Data Analysis
   
 ## Tools and Technologies 🔧
-  ### Full-Stack Development
-  JavaScript, HTML/CSS, MEAN, React, TypeScript, Flask, SQL, Swift, Neo4j
+  ### Languages
+  JavaScript (MEAN, React, TypeScript), HTML/CSS, Python (Flask, Pandas, Numpy, TF, PyTorch, Keras), Java, C, C++, OCaml, Ruby, Swift
 
-  ### ML/Data Analysis
-  Python, Pandas, Numpy, TensorFlow, Keras
-
-  ### Other
-  Java, C, C++, OCaml, Ruby
+  ### Tools and Technologies
+  MongoDB, SQL, PostgreQL, Neo4j, AWS Lambda, Linux, Git
+  
 
 ## Current Projects 🌱
 - **CollaBirder** – An improved information/connection platform for birders utilizing the EBird API and network modeling

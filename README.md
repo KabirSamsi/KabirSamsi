@@ -14,7 +14,7 @@ Currently, my work comprises applied fullstack and API development as well as de
   
 ## Tools and Technologies 🔧
   ### Full-Stack Development
-  JavaScript, HTML/CSS, MEAN, Flask, SQL, Swift, Neo4j
+  JavaScript, HTML/CSS, MEAN, React, TypeScript, Flask, SQL, Swift, Neo4j
 
   ### ML/Data Analysis
   Python, Pandas, Numpy, TensorFlow, Keras

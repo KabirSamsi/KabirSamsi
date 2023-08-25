@@ -10,7 +10,7 @@ Currently, my work comprises applied fullstack and API development as well as de
 - Machine Learning & Computer Vision
 - Interpreters & Programming Languages
 - Databases, Graph-Based Databases & Schema Design
-- Data Analysis
+- Data Analysis & Data Engineering
   
 ## Tools & Technologies 🔧
   ### Languages

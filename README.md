@@ -3,7 +3,7 @@
 ## About Me 👋🏼
 I'm an undergraduate student and fullstack developer at Cornell University studying CS, Math & Music, and a machine learning assistant at the Cornell Lab of Ornithology. Much of my work has involved designing databases, APIs and webservers that form intersections with other areas of my interests, some of which are on display here. 
 
-Currently, my work comprises applied fullstack and API development as well as design and application of interpreters, programming languages and computer vision. In particular, a lot of my current work focuses on its application to improve music development and recognition software.
+Currently, my work comprises applied fullstack and API development as well as design and application of interpreters, programming languages and computer vision. In particular,  my current work focuses on applying PL design to modify music development, and network modeling to improve information access.
 
 ## Main Skills & Interests 💡
 - Full-Stack Development

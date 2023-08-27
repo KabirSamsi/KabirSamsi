@@ -1,5 +1,7 @@
 ### Greetings! I'm Kabir.
 
+![KabirSamsi's stats](https://github-readme-stats.vercel.app/api?username=KabirSamsi&show_icons=true&theme=tokyonight)
+
 ## About Me 👋🏼
 I'm an undergraduate student and fullstack developer at Cornell University studying CS, Math & Music, and a machine learning assistant at the Cornell Lab of Ornithology. Much of my work has involved designing databases, APIs and webservers that form intersections with other areas of my interests, some of which are on display here. 
 

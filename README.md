@@ -17,7 +17,7 @@ Currently, my work comprises applied fullstack and API development as well as de
   JavaScript (MEAN, React, TypeScript), HTML/CSS, Python (Flask, Pandas, Numpy, TensorFlow, PyTorch, Keras), Java, C, C++, OCaml, Ruby, Swift, Assembly
 
   ### Frameworks/Tools
-  MongoDB, SQL, PostgreSQL, Neo4j, AWS Lambda, Linux
+  MongoDB, SQL/PostgreSQL/MariaDB, Neo4j, AWS Lambda, Linux, Git
   
 
 ## Current Projects 🌱

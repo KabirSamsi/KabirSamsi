@@ -23,4 +23,4 @@ Currently, my work comprises applied fullstack and API development as well as de
 ## Current Projects 🌱
 - **CollabBirder** – Platform utilizing the EBird API, Neo4j & Socket.io to create improved group birding and bird search systems.
 - **Franz** – Functional programming language and interpreter for composing, representing and evaluating music
-- **Hawkeye** – Neural network utilizing Caltech's CUB database and EBird API to experiment with faster bird recognition
+- **MaTriX** – Linear-algebra specific typesetter and interpreter

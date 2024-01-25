@@ -7,8 +7,8 @@ Currently, my work comprises applied fullstack and API development as well as de
 
 ## Main Skills & Interests 💡
 - Full-Stack Development
-- Machine Learning & Computer Vision
 - Interpreters & Programming Languages
+- Machine Learning & Computer Vision
 - Databases, Graph Databases & Schema Design
 - Data Analysis & Data Engineering
   

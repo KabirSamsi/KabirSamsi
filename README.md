@@ -1,20 +1,26 @@
 ### Greetings! I'm Kabir.
 
 ## About Me 👋🏼
-Hi there! I'm a student researcher and fullstack developer at Cornell University studying CS, Math & Music, a researcher at CAPRA, a software engineer at Cornell CMSX and a machine learning & data analyst at the Cornell Lab of Ornithology. Much of my work has involved designing databases, APIs and webservers that form intersections with other areas of my interests, some of which are on display here. 
+Hi there! I'm a student at Cornell University studying CS, Math & Music. I work as a compiler design & computer abstraction researcher at CAPRA; a software developer at Cornell CMSX; and a ML & data analyst at the Cornell Lab of Ornithology. Much of my work has involved designing databases, APIs and webservers, while I have recently migrated to the wonderful world of programming languages. My current projects focus on developing languages targeted at more niche applications, while exploring how to reverse-engineer previously existing compilation frameworks. I'm also an avid explorer of applied machine learning and algorithm analysis.
 
-Currently, my work comprises applied fullstack and API development as well as design and application of interpreters, programming languages and computer vision. In particular,  my current projects focus on applying PL design to modify music development, and network modeling to improve information access with a particular focus on birds.
+Some of my newer projects will include detailed descriptions of my work here, while the inner workings may remain a well-kept secret until fully ready for publication. But feel free to take a look all the same! You can read a bit more about me
 
 ## Main Skills & Interests 💡
+- Programming Languages & Compiler Design
 - Full-Stack Development
-- Interpreters & Programming Languages
-- Machine Learning & Computer Vision
-- Databases, Graph Databases & Schema Design
-- Data Analysis & Data Engineering
+- Applied Machine Learning \& Data Analysis
+- Algorithm Design
   
 ## Tools & Technologies 🔧
   ### Languages
-  JavaScript (MEAN, React, TypeScript), HTML/CSS, Python (Flask, Pandas, Numpy, TensorFlow, PyTorch, Keras), Java, C, C++, C#, OCaml, Ruby, Swift, Assembly
+  JavaScript (MEAN, React, TypeScript), HTML/CSS, Python (Flask, Pandas, Numpy, TensorFlow, PyTorch, Keras), Java, Rust, C, C++, C#, OCaml, Haskell, Ruby, Swift, Assembly (RISC-V, x86)
 
   ### Frameworks/Tools
   MongoDB, SQL/PostgreSQL/MariaDB, Neo4j, AWS Lambda, Linux, Git
+
+## Projects
+I'm currently developing a few projects including the following:
+- **KLaTsL**: An functional language and typesetter for linear algebra operations.
+- **Franz**: An interpreter for representing music through a functional programming language. Introduces features including rhythm comprehensions & motivic pattern matching and compiles directly to ChucK, a language designed for audio output.
+- **RISCV-Decompile**: A reverse-engineering decompiler and program verifier to translate between RISC-V Assembly and machine code and observe that machine code satisfies program constraints.
+- **Flock**: More of a curiosity project than anything – designs a series of models and datasets analyzing how to maximize prediction accuracy for different labels in bird data.

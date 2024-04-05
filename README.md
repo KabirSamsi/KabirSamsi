@@ -8,18 +8,18 @@ Some of my newer projects will include detailed descriptions of my work here, wh
 ## Main Skills & Interests 💡
 - Programming Languages & Compiler Design
 - Full-Stack Development
-- Applied Machine Learning \& Data Analysis
-- Algorithm Design
+- Applied Machine Learning \& Data Engineering
+- Applied Algorithm Design \& Complexity Analysis
   
 ## Tools & Technologies 🔧
   ### Languages
-  JavaScript (MEAN, React, TypeScript), HTML/CSS, Python (Flask, Pandas, Numpy, TensorFlow, PyTorch, Keras), Java, Rust, C, C++, C#, OCaml, Haskell, Ruby, Swift, Assembly (RISC-V, x86)
+  Java, Rust, C, C++, OCaml, Haskell, JavaScript (MEAN, React, TypeScript), HTML/CSS, Python (Flask, Pandas, Numpy, TensorFlow, PyTorch, Keras), C#, Ruby, Swift, Assembly (RISC-V, x86)
 
   ### Frameworks/Tools
   MongoDB, SQL/PostgreSQL/MariaDB, Neo4j, AWS Lambda, Linux, Git
 
 ## Projects 🌱
-I'm currently developing a few projects including the following:
+I'm currently developing a few projects including the following! As I mention above, the source code for most of these will be made available later.
 - **KLaTsL**: A functional language and typesetter for linear algebra operations. Introduces OCaml-esque notation but with functionality including vector and matrix comprehensions, direct matrix factorizations and more.
 
 - **Franz**: A compiler for representing music through a functional programming language. Introduces features including rhythm comprehensions & motivic pattern matching and compiles directly to ChucK, a language designed for audio output.

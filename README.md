@@ -18,9 +18,3 @@ Currently, my work comprises applied fullstack and API development as well as de
 
   ### Frameworks/Tools
   MongoDB, SQL/PostgreSQL/MariaDB, Neo4j, AWS Lambda, Linux, Git
-  
-
-## Current Projects 🌱
-- **CollabBirder** – Platform utilizing the EBird API, Neo4j & Socket.io to create improved group birding and bird search systems.
-- **Franz** – Functional programming language and interpreter for composing, representing and evaluating music
-- **MaTriX** – Linear-algebra specific typesetter and interpreter designed with functional syntax

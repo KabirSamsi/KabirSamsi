@@ -3,7 +3,7 @@
 ## About Me 👋🏼
 Hi there! I'm a student at Cornell University studying CS, Math & Music. I am a PL \& compiler design researcher at [CAPRA](https://capra.cs.cornell.edu/); a software developer at [CMSX](https://www.cs.cornell.edu/projects/cms/cmsx/); and a ML & data analyst at the [Cornell Lab of Ornithology](https://merlin.allaboutbirds.org/). Much of my work has involved designing databases, APIs and webservers, while I have recently migrated to the wonderful world of programming languages. My current projects focus on developing languages targeted at more niche applications, while exploring how to reverse-engineer previously existing compilation frameworks. I'm also an avid explorer of applied machine learning and algorithm analysis.
 
-Some of my newer projects will include detailed descriptions of my work here, while the inner workings may remain a well-kept secret until fully ready for publication. But feel free to take a look all the same! You can read a bit more about me
+Some of my newer projects will include detailed descriptions of my work here, while the inner workings may remain a well-kept secret until fully ready for publication. But feel free to take a look all the same!
 
 ## Main Skills & Interests 💡
 - Programming Languages & Compiler Design

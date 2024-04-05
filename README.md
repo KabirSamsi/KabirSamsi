@@ -18,9 +18,12 @@ Some of my newer projects will include detailed descriptions of my work here, wh
   ### Frameworks/Tools
   MongoDB, SQL/PostgreSQL/MariaDB, Neo4j, AWS Lambda, Linux, Git
 
-## Projects
+## Projects 🌱
 I'm currently developing a few projects including the following:
 - **KLaTsL**: A functional language and typesetter for linear algebra operations. Introduces OCaml-esque notation but with functionality including vector and matrix comprehensions, direct matrix factorizations and more.
+
 - **Franz**: A compiler for representing music through a functional programming language. Introduces features including rhythm comprehensions & motivic pattern matching and compiles directly to ChucK, a language designed for audio output.
-- **RISCV-Decompile**: A reverse-engineering decompiler and program verifier to translate between RISC-V Assembly and machine code and observe that machine code satisfies program constraints.
+
+- **RISCV-Decompile**: A reverse-engineering decompiler and program verifier to translate between RISC-V Assembly and machine code and to verify that machine code correctly satisfies given program specifications.
+
 - **Flock**: More of a curiosity project than anything – designs a series of models and datasets analyzing how to maximize prediction accuracy for different labels in bird data.

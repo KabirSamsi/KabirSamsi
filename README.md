@@ -20,7 +20,7 @@ Some of my newer projects will include detailed descriptions of my work here, wh
 
 ## Projects
 I'm currently developing a few projects including the following:
-- **KLaTsL**: An functional language and typesetter for linear algebra operations.
-- **Franz**: An interpreter for representing music through a functional programming language. Introduces features including rhythm comprehensions & motivic pattern matching and compiles directly to ChucK, a language designed for audio output.
+- **KLaTsL**: A functional language and typesetter for linear algebra operations. Introduces OCaml-esque notation but with functionality including vector and matrix comprehensions, direct matrix factorizations and more.
+- **Franz**: A compiler for representing music through a functional programming language. Introduces features including rhythm comprehensions & motivic pattern matching and compiles directly to ChucK, a language designed for audio output.
 - **RISCV-Decompile**: A reverse-engineering decompiler and program verifier to translate between RISC-V Assembly and machine code and observe that machine code satisfies program constraints.
 - **Flock**: More of a curiosity project than anything – designs a series of models and datasets analyzing how to maximize prediction accuracy for different labels in bird data.

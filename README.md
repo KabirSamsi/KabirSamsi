@@ -19,7 +19,7 @@ Some of my newer projects will include detailed descriptions of my work here, wh
   MongoDB, SQL/PostgreSQL/MariaDB, Neo4j, AWS Lambda, Linux, Git
 
 ## Projects 🌱
-I'm currently developing a few projects including the following! As I mention above, the source code for most of these will be made available later.
+I'm currently developing a few projects including the following! As I mention above, source code for most will be made available later.
 - **KLaTsL**: A functional language and typesetter for linear algebra operations. Introduces OCaml-esque notation but with functionality including vector and matrix comprehensions, direct matrix factorizations and more.
 
 - **Franz**: A compiler for representing music through a functional programming language. Introduces features including rhythm comprehensions & motivic pattern matching and compiles directly to ChucK, a language designed for audio output.
@@ -28,4 +28,4 @@ I'm currently developing a few projects including the following! As I mention ab
 
 - **Flock**: More of a curiosity project than anything – designs a series of models and datasets analyzing how to maximize prediction accuracy for different labels in bird data.
 
-- Do also keep an eye out for some of my notes on algorithmic challenges and ideas I post here!
+Do also keep an eye out for some of my notes on algorithmic challenges and ideas I post here!

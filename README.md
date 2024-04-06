@@ -25,9 +25,9 @@ You can always reach me at [samsikabir@gmail.com](samsikabir@gmail.com) or [kas4
 
 ## Projects 🌱
 I'm currently working on a few projects including the following! Source code for most will be made available later.
-- **KLaTsL**: A functional language and typesetter for linear algebra operations. Introduces OCaml-esque notation but with functionality including vector and matrix comprehensions, direct matrix factorizations and more.
+- **KLaTsL**: A functional programming language and typesetter for linear algebra operations. Introduces OCaml-esque notation but with functionality including vector and matrix comprehensions, direct matrix factorizations and more.
 
-- **Franz**: A compiler for representing music through a functional programming language. Introduces features including rhythm comprehensions & motivic pattern matching and compiles directly to ChucK, a language designed for audio output.
+- **Franz**: A programming language and compiler for representing music. Introduces features including rhythm comprehensions & motivic pattern matching and compiles directly to ChucK, a language designed to produce audio.
 
 - **RISCV-Decompile**: A reverse-engineering decompiler and program verifier to translate machine code to RISC-V Assembly and verify program correctness.
 

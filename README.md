@@ -1,8 +1,5 @@
 ### Hi there! I'm Kabir.
 
-## Contact
-You can always reach me at [samsikabir@gmail.com](samsikabir@gmail.com) or [kas499@cornell.edu](kas499@cornell.edu)! Also feel free stop by my [LinkedIn](https://www.linkedin.com/in/kabir-samsi-009248209/]).
-
 ## About Me 👋🏼
 I study CS, Math & Music at Cornell with a concentration in Programming Languages and Compilers. I am a PL \& compiler abstractions researcher at [CAPRA](https://capra.cs.cornell.edu/), a software developer at [CMSX](https://www.cs.cornell.edu/projects/cms/cmsx/) and a data analyst at [Merlin](https://merlin.allaboutbirds.org/). Much of my work has involved designing databases, APIs and webservers, while I have more recently migrated to working with programming languages \& designing compilers. My current projects focus on developing languages targeted at more niche applications, while exploring how to reverse-engineer previously existing compilers. I also love to explore machine learning and algorithm analysis, with some of my work targeted at designing optimal solutions to related problems.
 
@@ -35,3 +32,6 @@ I'm currently working on a few projects including the following! Source code for
 - **Flock**: More of a curiosity project than anything – designs a series of models and datasets analyzing how to maximize prediction accuracy for different labels in bird data.
 
 Do also keep an eye out for some of my notes on algorithmic challenges and ideas I post here!
+
+## Contact 📞
+You can always reach me at [samsikabir@gmail.com](samsikabir@gmail.com) or [kas499@cornell.edu](kas499@cornell.edu)! Also feel free stop by my [LinkedIn](https://www.linkedin.com/in/kabir-samsi-009248209/]).

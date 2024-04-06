@@ -5,6 +5,8 @@ I study CS, Math & Music at Cornell with a concentration in Programming Language
 
 Some of my newer projects will include detailed descriptions of my work here, while the inner workings may remain a well-kept secret until fully ready for publication. But feel free to take a look all the same!
 
+You can always reach me at [samsikabir@gmail.com](samsikabir@gmail.com) or [kas499@cornell.edu](kas499@cornell.edu)! Also feel free stop by my [LinkedIn](https://www.linkedin.com/in/kabir-samsi-009248209/]).
+
 ## Main Skills & Interests 💡
 - Programming Languages & Interpreter Design
 - Compiler Abstractions & Reverse Engineering
@@ -32,6 +34,3 @@ I'm currently working on a few projects including the following! Source code for
 - **Flock**: More of a curiosity project than anything – designs a series of models and datasets analyzing how to maximize prediction accuracy for different labels in bird data.
 
 Do also keep an eye out for some of my notes on algorithmic challenges and ideas I post here!
-
-## Contact 📞
-You can always reach me at [samsikabir@gmail.com](samsikabir@gmail.com) or [kas499@cornell.edu](kas499@cornell.edu)! Also feel free stop by my [LinkedIn](https://www.linkedin.com/in/kabir-samsi-009248209/]).

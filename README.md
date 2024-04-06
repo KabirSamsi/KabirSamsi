@@ -16,7 +16,7 @@ You can always reach me at [samsikabir@gmail.com](samsikabir@gmail.com) or [kas4
   
 ## Tools & Technologies 🔧
   ### Languages
-  Java, C, C++, Rust, OCaml, Haskell, Python, JavaScript/TypeScript, C#, Ruby, Swift, Assembly (RISC-V, x86) HTML, CSS
+  JavaScript/TypeScript, Java, Python, C, C++, Rust, OCaml, Haskell, C#, Ruby, Swift, Assembly (RISC-V, x86) HTML, CSS
 
 ### Frameworks/Tools
   - **Web Development**: MEAN Stack, React, Ajax, JQuery, Bootstrap, Mongoose, Nginx

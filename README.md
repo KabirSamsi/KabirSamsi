@@ -7,10 +7,10 @@ Some of my newer projects will include detailed descriptions of my work here, wh
 
 ## Main Skills & Interests 💡
 - Programming Languages & Interpreter Design
-- Compiler Abstractions and Reverse Engineering
+- Compiler Abstractions & Reverse Engineering
 - Full-Stack Development
 - Applied Machine Learning \& Data Engineering
-- Applied Algorithm Design \& Complexity Analysis
+- Algorithm Design \& Complexity Analysis
   
 ## Tools & Technologies 🔧
   ### Languages
@@ -25,7 +25,7 @@ I'm currently developing a few projects including the following! As I mention ab
 
 - **Franz**: A compiler for representing music through a functional programming language. Introduces features including rhythm comprehensions & motivic pattern matching and compiles directly to ChucK, a language designed for audio output.
 
-- **RISCV-Decompile**: A reverse-engineering decompiler and program verifier to translate between RISC-V Assembly and machine code and to verify that machine code correctly satisfies given program specifications.
+- **RISCV-Decompile**: A reverse-engineering decompiler and program verifier to translate machine code to RISC-V Assembly and verify program correctness.
 
 - **Flock**: More of a curiosity project than anything – designs a series of models and datasets analyzing how to maximize prediction accuracy for different labels in bird data.
 

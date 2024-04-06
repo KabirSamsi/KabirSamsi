@@ -14,7 +14,7 @@ Some of my newer projects will include detailed descriptions of my work here, wh
   
 ## Tools & Technologies 🔧
   ### Languages
-  Java, Rust, C/C++, OCaml, Haskell, Python, JavaScript (MEAN Stack & TypeScript), HTML/CSS, C#, Ruby, Swift, Assembly (RISC-V, x86)
+  Java, Rust, C/C++, OCaml, Haskell, Python, JavaScript (MEAN Stack, TypeScript), HTML/CSS, C#, Ruby, Swift, Assembly (RISC-V, x86)
 
 ### Frameworks/Tools
   - **Databases**: MongoDB, SQL/PostgreSQL/MariaDB, Neo4j, AWS Lambda

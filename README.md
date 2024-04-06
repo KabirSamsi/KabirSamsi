@@ -14,7 +14,7 @@ Some of my newer projects will include detailed descriptions of my work here, wh
   
 ## Tools & Technologies 🔧
   ### Languages
-  Java, C/C++, Rust, OCaml, Haskell, Python, JavaScript/TypeScript, HTML/CSS, C#, Ruby, Swift, Assembly (RISC-V, x86)
+  Java, C, C++, Rust, OCaml, Haskell, Python, JavaScript/TypeScript, C#, Ruby, Swift, Assembly (RISC-V, x86) HTML, CSS
 
 ### Frameworks/Tools
   - **Web Development**: MEAN Stack, React, Ajax, JQuery, Bootstrap, Mongoose, Nginx
@@ -22,7 +22,7 @@ Some of my newer projects will include detailed descriptions of my work here, wh
   - **Databases**: MongoDB, SQL/PostgreSQL/MariaDB, Neo4j, AWS Lambda
 
 ## Projects 🌱
-I'm currently developing a few projects including the following! As I mention above, source code for most will be made available later.
+I'm currently working on a few projects including the following! Source code for most will be made available later.
 - **KLaTsL**: A functional language and typesetter for linear algebra operations. Introduces OCaml-esque notation but with functionality including vector and matrix comprehensions, direct matrix factorizations and more.
 
 - **Franz**: A compiler for representing music through a functional programming language. Introduces features including rhythm comprehensions & motivic pattern matching and compiles directly to ChucK, a language designed for audio output.

@@ -31,6 +31,6 @@ I'm currently working on a few projects including the following! Source code for
 
 - **RISCV-Decompile**: A reverse-engineering decompiler and program verifier to translate machine code to RISC-V Assembly and verify program correctness given a set of program-state specifications.
 
-- **Flock**: More of a curiosity project than anything – designs a series of models and datasets analyzing how to maximize prediction accuracy for different labels in bird data, and discover new cluster patterns across species.
+- **Flock**: More of a curiosity project than anything – a series of models and datasets analyzing how to maximize prediction accuracy for different labels in bird data, and discover new cluster patterns across species.
 
 Do also keep an eye out for some of my notes on algorithmic challenges and ideas I post here!

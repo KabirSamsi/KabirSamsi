@@ -14,10 +14,12 @@ Some of my newer projects will include detailed descriptions of my work here, wh
   
 ## Tools & Technologies 🔧
   ### Languages
-  Java, Rust, C, C++, OCaml, Haskell, JavaScript (MEAN, React, TypeScript), HTML/CSS, Python (Flask, Pandas, Numpy, TensorFlow, PyTorch, Keras), C#, Ruby, Swift, Assembly (RISC-V, x86)
+  Java, Rust, C, C++, OCaml, Haskell, Python, JavaScript (MEAN Stack, TypeScript), HTML/CSS, C#, Ruby, Swift, Assembly (RISC-V, x86)
 
   ### Frameworks/Tools
-  MongoDB, SQL/PostgreSQL/MariaDB, Neo4j, AWS Lambda, Linux, Git
+  **Databases**: MongoDB, SQL/PostgreSQL/MariaDB, Neo4j, AWS Lambda
+  **Machine Learning**: Flask, Pandas, Numpy, TensorFlow, PyTorch, Keras
+  **Web Dev**: React, Ajax, JQuery, Bootstrap, Nginx
 
 ## Projects 🌱
 I'm currently developing a few projects including the following! As I mention above, source code for most will be made available later.

@@ -6,7 +6,8 @@ Hi there! I'm a student at Cornell University studying CS, Math & Music. I am a 
 Some of my newer projects will include detailed descriptions of my work here, while the inner workings may remain a well-kept secret until fully ready for publication. But feel free to take a look all the same!
 
 ## Main Skills & Interests 💡
-- Programming Languages & Compiler Design
+- Programming Languages & Interpreter Design
+- Compiler Abstractions and Reverse Engineering
 - Full-Stack Development
 - Applied Machine Learning \& Data Engineering
 - Applied Algorithm Design \& Complexity Analysis

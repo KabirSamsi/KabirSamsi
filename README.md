@@ -5,7 +5,7 @@ I study CS, Math & Music at Cornell with a concentration in PL and Compilers. I 
 
 Some of my newer projects will include detailed descriptions of my work here, while the inner workings may remain a well-kept secret until fully ready for publication. But feel free to take a look all the same!
 
-You can always reach me at [samsikabir@gmail.com](samsikabir@gmail.com) or [kas499@cornell.edu](kas499@cornell.edu)! Also feel free stop by my [LinkedIn](https://www.linkedin.com/in/kabir-samsi-009248209/]).
+You can always reach me at [samsikabir@gmail.com](samsikabir@gmail.com) or [kas499@cornell.edu](kas499@cornell.edu)! Also feel free stop by my [LinkedIn](https://www.linkedin.com/in/kabir-samsi/).
 
 ## Main Skills & Interests 💡
 - Programming Languages & Interpreter Design

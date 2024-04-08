@@ -21,6 +21,7 @@ You can always reach me at [samsikabir@gmail.com](mailto:samsikabir@gmail.com) o
   - **Web Development**: MEAN Stack, React, Ajax, JQuery, Bootstrap, Mongoose, Nginx
   - **Machine Learning**: Flask, Pandas, Numpy, TensorFlow, PyTorch, Keras
   - **Databases**: MongoDB, SQL/PostgreSQL/MariaDB, Neo4j, AWS Lambda
+  - **Other(?)**: LaTeX, Git
 
 ## Projects 🌱
 I'm currently working on a few projects including the following! Source code for most will be made available later.

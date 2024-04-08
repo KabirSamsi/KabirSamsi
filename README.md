@@ -24,7 +24,7 @@ You can always reach me at [samsikabir@gmail.com](mailto:samsikabir@gmail.com) o
   - **Other(?)**: LaTeX, Git
 
 ## Projects 🌱
-While several of my SDE and research projects are closed-source, see some of my previous projects including [Saberchat]([url](https://github.com/Saberchat/saberchat)) and [FindYourBird]([url](https://find-your-bird.org/))!
+While a lot of my work is private, you can view some of my larger fullstack projects on GitHub including [Saberchat](https://github.com/Saberchat/saberchat) and [FindYourBird](https://find-your-bird.org/).
 
 I'm currently working on a few projects including the following! Source code for most will be made available later.
 - **KLaTsL**: A functional programming language and typesetter for linear algebra operations. Introduces OCaml-esque notation but with functionality including vector and matrix comprehensions, direct matrix factorizations and more.

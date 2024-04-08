@@ -21,7 +21,7 @@ You can always reach me at [samsikabir@gmail.com](mailto:samsikabir@gmail.com) o
   - **Web Development**: MEAN Stack, React, Ajax, JQuery, Bootstrap, Mongoose, Nginx
   - **Machine Learning**: Flask, Pandas, Numpy, TensorFlow, PyTorch, Keras
   - **Databases**: MongoDB, SQL/PostgreSQL/MariaDB, Neo4j, AWS Lambda
-  - **Other(?)**: LaTeX, Git
+  - **Other**: LaTeX, Git
 
 ## Projects 🌱
 While a lot of my work is private or closed-source, you can view some of my larger fullstack projects on GitHub including [Saberchat](https://github.com/Saberchat/saberchat) (platform for schools & community organizations) and [FindYourBird](https://github.com/KabirSamsi/find-your-bird/) (ID and information site for amateur birders).

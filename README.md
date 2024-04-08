@@ -18,7 +18,7 @@ You can always reach me at [samsikabir@gmail.com](mailto:samsikabir@gmail.com) o
   JavaScript/TypeScript, Java, Python, C, C++, Rust, OCaml, Haskell, C#, Ruby, Swift, Assembly (RISC-V, x86) HTML, CSS
 
 ### Frameworks/Tools
-  - **Web Development**: MEAN Stack, React, Ajax, JQuery, Bootstrap, Mongoose, Nginx
+  - **Web Development**: MEAN Stack, React, Ajax, JQuery, JSP/EJS/Pug, Bootstrap, Mongoose, Nginx
   - **Machine Learning**: Flask, Pandas, Numpy, TensorFlow, PyTorch, Keras
   - **Databases**: MongoDB, SQL/PostgreSQL/MariaDB, Neo4j, AWS Lambda
   - **Other**: LaTeX, Git

@@ -6,6 +6,8 @@ Some of my newer projects will include detailed descriptions of my work here, wh
 
 You can always reach me at [samsikabir@gmail.com](mailto:samsikabir@gmail.com) or [kas499@cornell.edu](mailto:kas499@cornell.edu)! Also feel free stop by my [LinkedIn](https://www.linkedin.com/in/kabir-samsi/).
 
+You can also learn a bit more about me at my website [kabirsamsi.com](https://kabirsamsi.com) (still under development, but stay posted!)
+
 ## Main Skills & Interests 💡
 - Programming Languages & Interpreter Design
 - Compiler Abstractions & Reverse Engineering

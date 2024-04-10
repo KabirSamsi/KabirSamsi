@@ -4,7 +4,7 @@ I study CS, Math & Music at Cornell with a concentration in Programming Language
 
 Some of my newer projects will include detailed descriptions of my work here, while the inner workings may remain a well-kept secret until fully ready for publication. But feel free to take a look all the same!
 
-You can always reach me at <a href="mailto:samsikabir@gmail.com" target=_"blank">samsikabir@gmail.com</a> or <a href="mailto:kas499@cornell.edu" target="_blank">kas499@cornell.edu</a>! Also feel free stop by my <a href="https://www.linkedin.com/in/kabir-samsi/" target="_blank">LinkedIn</a>.
+You can always reach me at <a href="mailto:samsikabir@gmail.com" target="_blank">samsikabir@gmail.com</a> or <a href="mailto:kas499@cornell.edu" target="_blank">kas499@cornell.edu</a>! Also feel free stop by my <a href="https://www.linkedin.com/in/kabir-samsi/" target="_blank">LinkedIn</a>.
 
 You can also learn a bit more about me at my website <a href="https://kabirsamsi.com" target="_blank">kabirsamsi.com</a> (still under development, but stay posted!)
 

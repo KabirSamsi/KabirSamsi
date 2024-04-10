@@ -1,12 +1,12 @@
 ### Hi there! I'm Kabir.
 
-I study CS, Math & Music at Cornell with a concentration in Programming Languages and Compilers. I am a PL \& compiler abstractions researcher at [CAPRA](https://capra.cs.cornell.edu/), a software developer at <a href="https://www.cs.cornell.edu/projects/cms/cmsx/">CMSX</a> and a data analyst at [Merlin](https://merlin.allaboutbirds.org/). Much of my work has involved designing databases, APIs and webservers; more recently, I have migrated to projects focused on developing language frameworks targeted at more niche applications, while exploring how to reverse-engineer previously existing compilers. I also love to explore machine learning and algorithm analysis, with some of my work targeted at designing optimal solutions to related problems.
+I study CS, Math & Music at Cornell with a concentration in Programming Languages and Compilers. I am a PL \& compiler abstractions researcher at <a href="https://capra.cs.cornell.edu/" target="_blank">CAPRA</a>, a software developer at <a href="https://www.cs.cornell.edu/projects/cms/cmsx/" target=_"blank">CMSX</a> and a data analyst at <a href="https://merlin.allaboutbirds.org/" target="_blank">Merlin</a>. Much of my work has involved designing databases, APIs and webservers; more recently, I have migrated to projects focused on developing language frameworks targeted at more niche applications, while exploring how to reverse-engineer previously existing compilers. I also love to explore machine learning and algorithm analysis, with some of my work targeted at designing optimal solutions to related problems.
 
 Some of my newer projects will include detailed descriptions of my work here, while the inner workings may remain a well-kept secret until fully ready for publication. But feel free to take a look all the same!
 
-You can always reach me at [samsikabir@gmail.com](mailto:samsikabir@gmail.com) or [kas499@cornell.edu](mailto:kas499@cornell.edu)! Also feel free stop by my [LinkedIn](https://www.linkedin.com/in/kabir-samsi/).
+You can always reach me at <a href="mailto:samsikabir@gmail.com" target=_"blank">samsikabir@gmail.com</a> or <a href="mailto:kas499@cornell.edu" target="_blank">kas499@cornell.edu</a>! Also feel free stop by my <a href="https://www.linkedin.com/in/kabir-samsi/" target="_blank">LinkedIn</a>.
 
-You can also learn a bit more about me at my website [kabirsamsi.com](https://kabirsamsi.com) (still under development, but stay posted!)
+You can also learn a bit more about me at my website <a href="https://kabirsamsi.com" target="_blank">kabirsamsi.com</a> (still under development, but stay posted!)
 
 ## Main Skills & Interests 💡
 - Programming Languages & Interpreter Design
@@ -26,7 +26,7 @@ You can also learn a bit more about me at my website [kabirsamsi.com](https://ka
   - **Other**: LaTeX, Git
 
 ## Projects 🌱
-While a lot of my work is private or closed-source, you can view some of my larger fullstack projects on GitHub including [Saberchat](https://github.com/Saberchat/saberchat) (platform for schools & community organizations) and [FindYourBird](https://github.com/KabirSamsi/find-your-bird/) (ID and information site for amateur birders).
+While a lot of my work is private or closed-source, you can view some of my larger fullstack projects on GitHub including <a href="https://github.com/Saberchat/saberchat" target="_blank">Saberchat</a> (platform for schools & community organizations) and <a href="https://github.com/KabirSamsi/find-your-bird/" target="_blank">FindYourBird</a> (ID and information site for amateur birders).
 
 I'm currently working on a few projects including the following! Full source code for most will be made available later.
 - **KLaTsL**: A functional programming language and typesetter for linear algebra operations. Introduces OCaml-esque notation but with functionality including vector and matrix comprehensions, direct matrix factorizations and more.

@@ -14,7 +14,9 @@ You can also learn a bit more about me at my <a href="https://kabirsamsi.com" ta
 - Full-Stack Development
 - Applied Machine Learning \& Data Engineering
 - Algorithm Design \& Complexity Analysis
-  
+
+I'm currently learning more about deep learning and PyTorch, as well as designing more complex interpreters with Rust!
+
 ## Tools & Technologies 🔧
   ### Languages
   JavaScript/TypeScript, Java, Python, C, C++, Rust, OCaml, Haskell, C#, Ruby, Swift, Assembly (RISC-V, x86) HTML, CSS

@@ -33,7 +33,7 @@ I'm currently working on a few projects including the following! Full source cod
 
 - **Franz**: A programming language and compiler for representing music. Introduces features including rhythm comprehensions & motivic pattern matching and compiles directly to ChucK, a language designed to produce audio.
 
-- **RISCV-Decompile**: A reverse-assembler, decompiler, processor simulator and program verifier to translate machine code to RISC-V Assembly and verify program correctness given a set of program-state specifications.
+- **RISCV-Disassemble**: A disassembler, decompiler, processor simulator and program verifier to translate machine code to RISC-V Assembly and verify program correctness given a set of program-state specifications.
 
 - **Flock**: More of a curiosity project than anything – a series of models and datasets analyzing how to maximize prediction accuracy for different labels in bird data, and discover new cluster patterns across species.
 

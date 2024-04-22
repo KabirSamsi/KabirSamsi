@@ -30,10 +30,11 @@ I'm currently learning more about deep learning and PyTorch, as well as designin
 ## Projects 🌱
 While a lot of my work is private or closed-source, you can view some of my larger fullstack projects on GitHub including <a href="https://github.com/Saberchat/saberchat" target="_blank">Saberchat</a> (platform for schools & community organizations) and <a href="https://github.com/KabirSamsi/find-your-bird/" target="_blank">FindYourBird</a> (ID and information site for amateur birders).
 
-I'm currently working on a few projects including the following! Full source code for most will be made available later.
-- **KLaTsL**: A functional programming language and typesetter for linear algebra operations. Introduces OCaml-esque notation but with functionality including vector and matrix comprehensions, direct matrix factorizations and more.
+I'm currently working on a few projects including the following!
 
-- **Franz**: A programming language and compiler for representing music. Introduces features including rhythm comprehensions & motivic pattern matching and compiles directly to ChucK, a language designed to produce audio.
+- **KLaTsL**: A functional, typed & interpreted language focused on linear algebra. Introduces an elegant type system and syntax featuring matrix comprehensions & factorizations, typed transformations, dimensional typing and more.
+
+- **Franz**: A compiled programming language to represent music, Franz introduces features including rhythm comprehensions, recursive scales \& motivic pattern matching. Compiles to ChucK, an audio production and representation language.
 
 - **RISCV-Disassemble**: A disassembler, decompiler, processor simulator and program verifier to translate machine code to RISC-V Assembly and verify program correctness given a set of program-state specifications.
 

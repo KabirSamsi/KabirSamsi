@@ -11,7 +11,7 @@ You can also learn a bit more about me at my <a href="https://kabirsamsi.com" ta
 - Compilers and Assembler Design
 - Full-Stack Development
 - Applied Machine Learning \& Data Engineering
-- Software Engineering
+- Algorithm Design \& Complexity Analysis
 
 I'm currently learning more about deep learning and PyTorch, as well as designing more complex interpreters with Rust!
 

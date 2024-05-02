@@ -1,19 +1,17 @@
 ### Hi there! I'm Kabir.
 
-I study CS, Math & Music at Cornell with a concentration in Programming Languages and Compilers. I am a PL \& compiler abstractions researcher at <a href="https://capra.cs.cornell.edu/" target="_blank">CAPRA</a>, a software developer at <a href="https://www.cs.cornell.edu/projects/cms/cmsx/" target="_blank">CMSX</a> and a data analyst at <a href="https://merlin.allaboutbirds.org/" target="_blank">Merlin</a>. Much of my work has involved designing databases, APIs and webservers; more recently, I have migrated to projects focused on developing language frameworks targeted at more niche applications, while exploring how to reverse-engineer previously existing compilers. I also love to explore machine learning and algorithm analysis, with some of my work targeted at designing optimal solutions to related problems.
-
-Some of my newer projects will include detailed descriptions of my work here, while the inner workings may remain a well-kept secret until fully ready for publication. But feel free to take a look all the same!
+I study CS, Math & Music at Cornell with a concentration in Programming Languages and Compilers. I am a PL \& compiler abstractions researcher at <a href="https://capra.cs.cornell.edu/" target="_blank">CAPRA</a>, a software developer at <a href="https://www.cs.cornell.edu/projects/cms/cmsx/" target="_blank">CMSX</a> and a data analyst at <a href="https://merlin.allaboutbirds.org/" target="_blank">Merlin</a>. My interests lie in programming language theory & compilers, applied machine learning, algorithms and combining them all within software engineering to create elegant software systems. While my background skills lie in full-stack development, I have recently developed a passion for developing domain-specific languages targeted at more niche applications, and exploring compilation and assembly between different frameworks. I also love to explore machine learning and algorithm design, and my biggest overall goal is using my passions to develop new, elegant software systems.
 
 You can always reach me at <a href="mailto:samsikabir@gmail.com" target="_blank">samsikabir@gmail.com</a> or <a href="mailto:kas499@cornell.edu" target="_blank">kas499@cornell.edu</a>! Also feel free stop by my <a href="https://www.linkedin.com/in/kabir-samsi/" target="_blank">LinkedIn</a>.
 
 You can also learn a bit more about me at my <a href="https://kabirsamsi.com" target="_blank">website</a>, and check out my <a href="https://kabirsamsi.com/resume-2024.pdf">resume</a>.
 
 ## Main Skills & Interests 💡
-- Programming Languages & Interpreter Design
-- Compiler Abstractions & Reverse Engineering
+- Programming Languages & Interpreters
+- Compilers and Assembler Design
 - Full-Stack Development
 - Applied Machine Learning \& Data Engineering
-- Algorithm Design \& Complexity Analysis
+- Software Engineering
 
 I'm currently learning more about deep learning and PyTorch, as well as designing more complex interpreters with Rust!
 
@@ -25,10 +23,10 @@ I'm currently learning more about deep learning and PyTorch, as well as designin
   - **Web Development**: MEAN Stack, React, Ajax, JQuery, JSP/EJS/Pug, Bootstrap, Mongoose, Nginx
   - **Machine Learning**: Flask, Pandas, Numpy, TensorFlow, PyTorch, Keras
   - **Databases**: MongoDB, SQL/PostgreSQL/MariaDB, Neo4j, AWS Lambda
-  - **Other**: LaTeX, Git
+  - **Other**: LaTeX, Git, Coq
 
 ## Projects 🌱
-While a lot of my work is private or closed-source, you can view some of my larger fullstack projects on GitHub including <a href="https://github.com/Saberchat/saberchat" target="_blank">Saberchat</a> (platform for schools & community organizations) and <a href="https://github.com/KabirSamsi/find-your-bird/" target="_blank">FindYourBird</a> (ID and information site for amateur birders).
+You can view some of my larger, open projects on GitHub including <a href="https://github.com/Saberchat/saberchat" target="_blank">Saberchat</a> (platform for schools & community organizations) and <a href="https://github.com/KabirSamsi/find-your-bird/" target="_blank">FindYourBird</a> (ID and information site for amateur birders).
 
 I'm currently working on a few projects including the following!
 

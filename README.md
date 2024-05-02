@@ -23,7 +23,7 @@ I'm currently learning more about deep learning and PyTorch, as well as designin
   - **Web Development**: MEAN Stack, React, Ajax, JQuery, JSP/EJS/Pug, Bootstrap, Mongoose, Nginx
   - **Machine Learning**: Flask, Pandas, Numpy, TensorFlow, PyTorch, Keras
   - **Databases**: MongoDB, SQL/PostgreSQL/MariaDB, Neo4j, AWS Lambda
-  - **Other**: LaTeX, Git, Coq
+  - **Other**: LaTeX, Git, Menhir, Yacc, Coq
 
 ## Projects 🌱
 You can view some of my larger, open projects on GitHub including <a href="https://github.com/Saberchat/saberchat" target="_blank">Saberchat</a> (platform for schools & community organizations) and <a href="https://github.com/KabirSamsi/find-your-bird/" target="_blank">FindYourBird</a> (ID and information site for amateur birders).

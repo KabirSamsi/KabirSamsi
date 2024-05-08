@@ -7,13 +7,11 @@ You can always reach me at <a href="mailto:samsikabir@gmail.com" target="_blank"
 You can also learn a bit more about me at my <a href="https://kabirsamsi.com" target="_blank">website</a>, and check out my <a href="https://kabirsamsi.com/resume-2024.pdf">resume</a>.
 
 ## Main Skills & Interests 💡
-- Programming Languages & Interpreters
-- Compilers and Assembler Design
+- Programming Languages \& Interpreters
+- Compilers/Assemblers
 - Full-Stack Development
-- Applied Machine Learning \& Data Engineering
-- Algorithm \& Software System Design
-
-I'm currently learning more about deep learning and PyTorch, as well as designing more complex interpreters with Rust!
+- Machine Learning \& Data Engineering
+- System \& Software Design
 
 ## Tools & Technologies 🔧
   ### Languages

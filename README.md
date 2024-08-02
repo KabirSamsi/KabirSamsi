@@ -34,7 +34,7 @@ I'm currently working on a few projects including the following!
 
 - **KLaTsL**: A functional, typed & interpreted language focused on linear algebra. Introduces an elegant type system and syntax featuring matrix comprehensions & factorizations, typed transformations, dimensional typing and more.
 
-- **Franz**: A compiled programming language to represent music, Franz introduces features including rhythm comprehensions, recursive scales \& motivic pattern matching. Compiles to ChucK, an audio production and representation language.
+- **Franz**: A compiled, domain-specific programming language targeted towards compact and modular musical composition, using a medium of text-based musical notation. Compiles to ChucK, an audio production and representation language.
 
 - **RISCV-Pipeline**: A disassembler, decompiler, processor simulator and program verifier to translate machine code to RISC-V Assembly and verify program correctness given a set of program-state specifications.
 

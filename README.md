@@ -25,7 +25,7 @@ You can also learn a bit more about me at my <a href="https://kabirsamsi.com" ta
   - **Web Development**: MEAN Stack, React, Ajax, JQuery, JSP/EJS/Pug, Bootstrap, Mongoose, Nginx
   - **Machine Learning**: Flask, Pandas, Numpy, TensorFlow, PyTorch, Keras
   - **Databases**: MongoDB, SQL/PostgreSQL/MariaDB, Neo4j, AWS Lambda
-  - **Other**: LaTeX, Git, Parser Design (Menhir, JavaCC, Yacc), Verification Systems (Coq/Rocq, Idris)
+  - **Other**: LaTeX, Git, Parsers (Menhir, Lalrpop, Yacc, JavaCC), Proof Systems (Coq, Idris)
 
 ## Projects 🌱
 You can view some of my larger public projects on GitHub including <a href="https://github.com/Saberchat/saberchat" target="_blank">Saberchat</a> (platform for schools & community organizations) and <a href="https://github.com/KabirSamsi/find-your-bird/" target="_blank">FindYourBird</a> (ID and information site for amateur birders).

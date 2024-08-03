@@ -5,7 +5,7 @@
 
 - My interests lie in PL & compilers, applied machine learning, algorithms and combining them to create elegant software systems.
 
-- With a background in full-stack development, I have more recently developed a fascination for domain-specific languages (DSLs), and for exploring compilation and assembly between different frameworks. I also love to explore machine learning and algorithm design, and combining them all into software engineering.
+- With a background in full-stack development, I have more recently developed a fascination for programming language theory (PL), domain-specific languages (DSLs), and for exploring compilation different frameworks. I also enjoy exploring algorithm design and verified software engineering. I am always searching new for ways to combine PL, ML & SWE with areas ranging from music to ornithology!
 
 You can always reach me at <a href="mailto:samsikabir@gmail.com" target="_blank">samsikabir@gmail.com</a> or <a href="mailto:kas499@cornell.edu" target="_blank">kas499@cornell.edu</a>! Also feel free stop by my <a href="https://www.linkedin.com/in/kabir-samsi/" target="_blank">LinkedIn</a>.
 
@@ -22,7 +22,7 @@ You can also learn a bit more about me at my <a href="https://kabirsamsi.com" ta
   JavaScript/TypeScript, OCaml, Rust, Java, Python, C, C++, Haskell, Verilog, Ruby, Swift, Assembly (RISC-V, x86) HTML, CSS
 
 ### Frameworks/Tools
-  - **Web Development**: MEAN Stack, React, Ajax, JQuery, JSP/EJS/Pug, Bootstrap, Mongoose, Nginx
+  - **Fullstack**: MEAN Stack, React, Ajax, JQuery, JSP/EJS/Pug, Bootstrap, Mongoose, Nginx
   - **Machine Learning**: Flask, Pandas, Numpy, TensorFlow, PyTorch, Keras
   - **Databases**: MongoDB, SQL/PostgreSQL/MariaDB, Neo4j, AWS Lambda
   - **Other**: LaTeX, Git, Parsers (Menhir, Lalrpop, Yacc, JavaCC), Proof Systems (Coq, Idris)
@@ -32,10 +32,6 @@ You can view some of my larger public projects on GitHub including <a href="http
 
 I'm currently working on a few projects including the following!
 
-- **KLaTsL**: A functional, typed & interpreted language focused on linear algebra. Introduces an elegant type system and syntax featuring matrix comprehensions & factorizations, typed transformations, dimensional typing and more.
+- **[KLaTsL]([url](https://github.com/KabirSamsi/KLaTsL/))**: A functional, typed & interpreted language focused on linear algebra. Introduces an elegant type system and syntax featuring matrix comprehensions & factorizations, typed transformations, dimensional typing and more.
 
-- **Franz**: A compiled, domain-specific programming language targeted towards compact and modular musical composition, using a medium of text-based musical notation. Compiles to ChucK, an audio production and representation language.
-
-- **RISCV-Pipeline**: A disassembler, decompiler, processor simulator and program verifier to translate machine code to RISC-V Assembly and verify program correctness given a set of program-state specifications.
-
-Do also keep an eye out for some of my notes on algorithmic challenges and ideas I post!
+- **[Franz]([url](https://github.com/KabirSamsi/franz/))**: A compiled, domain-specific programming language targeted towards compact and modular musical composition, using a medium of text-based musical notation. Compiles to ChucK, an audio production and representation language.

@@ -9,7 +9,7 @@
 
 You can always reach me at <a href="mailto:samsikabir@gmail.com" target="_blank">samsikabir@gmail.com</a> or <a href="mailto:kas499@cornell.edu" target="_blank">kas499@cornell.edu</a>! Also feel free stop by my <a href="https://www.linkedin.com/in/kabir-samsi/" target="_blank">LinkedIn</a>.
 
-You can also learn a bit more about me at my <a href="https://kabirsamsi.com" target="_blank">website</a>, and check out my <a href="https://kabirsamsi.com/resume-2024.pdf">resume</a>.
+You can also learn a bit more about me at my <a href="https://kabirsamsi.com" target="_blank">website</a>, and check out my <a href="https://github.com/KabirSamsi/KabirSamsi/blob/main/Kabir%20Samsi%20Resume%20(2024).pdf">resume</a>.
 
 ## Main Skills & Interests 💡
 - Programming Language Theory, DSL Design & Implementation

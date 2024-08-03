@@ -19,7 +19,7 @@ You can also learn a bit more about me at my <a href="https://kabirsamsi.com" ta
 
 ## Tools & Technologies 🔧
   ### Languages
-  JavaScript/TypeScript, OCaml, Rust, Java, Python, C, C++, Haskell, Verilog, Ruby, Swift, Assembly (RISC-V, x86) HTML, CSS
+  JavaScript/TypeScript, OCaml, Rust, Java, Python, C/C++, Haskell, Go, Ruby, Swift, HTML/CSS, Verilog, RISC-V
 
 ### Frameworks/Tools
   - **Fullstack**: MEAN Stack, React, Ajax, JQuery, JSP/EJS/Pug, Bootstrap, Mongoose, Nginx

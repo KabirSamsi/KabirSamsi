@@ -28,7 +28,7 @@ You can also learn a bit more about me at my <a href="https://kabirsamsi.com" ta
   - **Other**: LaTeX, Git, Parsers (Menhir, Lalrpop, Yacc, JavaCC), Proof Systems (Coq, Idris)
 
 ## Projects 🌱
-You can view some of my larger public projects on GitHub including <a href="https://github.com/Saberchat/saberchat" target="_blank">Saberchat</a> (platform for schools & community organizations) and <a href="https://github.com/KabirSamsi/find-your-bird/" target="_blank">FindYourBird</a> (ID and information site for amateur birders).
+You can view some of my larger public projects on GitHub including <a href="https://github.com/Saberchat/saberchat" target="_blank">Saberchat</a> (platform for schools & community organizations) and <a href="https://github.com/KabirSamsi/find-your-bird/" target="_blank">FindYourBird</a> (ID and information site for amateur birders). At some point I'll get them back on the internet.
 
 I'm currently working on a few projects including the following!
 

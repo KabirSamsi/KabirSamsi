@@ -3,7 +3,7 @@
 - I study CS, Math & Music at Cornell with a concentration in [Programming Languages](https://pl.cs.cornell.edu/).
 - I research the applications \& intersections between programming language theory (PL) and computer architecture at <a href="https://capra.cs.cornell.edu/" target="_blank">CAPRA</a>, and work as a software developer at <a href="https://www.cs.cornell.edu/projects/cms/cmsx/" target="_blank">CMSX</a> and a data analyst at <a href="https://merlin.allaboutbirds.org/" target="_blank">Merlin</a>.
 
-- My interests lie in PL/compilers, algorithm design, verified software engineering and combining them to create elegant systems.
+- My interests lie in PL/compilers, algorithms, verified software engineering and combining them to create elegant systems.
 
 - With a background in full-stack development, I have more recently developed a fascination for programming language theory (PL), domain-specific languages (DSLs), and for exploring compilation between different languages. I also enjoy exploring algorithm design and verified software engineering. I am always searching new for ways to combine PL, ML & SWE with areas ranging from music to ornithology!
 

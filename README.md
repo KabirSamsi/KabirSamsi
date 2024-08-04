@@ -5,7 +5,7 @@
 
 - My interests lie in PL/compilers, algorithms, verified software engineering and combining them to create elegant systems.
 
-- With a background in full-stack development, I have more recently developed a fascination for programming language theory (PL), domain-specific languages (DSLs), and for exploring compilation between different languages. I also enjoy exploring algorithm design and verified software engineering. I am always searching new for ways to combine PL, ML & SWE with areas ranging from music to ornithology!
+- My background is in fullstack development. Presently, I love exploring programming languages (PL), domain-specific languages (DSLs), and compilation between different languages. I also dabble in algorithm design and verified software engineering. I am always searching new for ways to combine PL, ML & SWE with areas ranging from music to ornithology!
 
 You can always reach me at <a href="mailto:samsikabir@gmail.com" target="_blank">samsikabir@gmail.com</a> or <a href="mailto:kas499@cornell.edu" target="_blank">kas499@cornell.edu</a>! Also feel free stop by my <a href="https://www.linkedin.com/in/kabir-samsi/" target="_blank">LinkedIn</a>.
 

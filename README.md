@@ -19,7 +19,7 @@ You can also learn a bit more about me at my <a href="https://kabirsamsi.com" ta
 
 ## Tools & Technologies 🔧
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KabirSamsi&theme=blueberry&hide_border=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KabirSamsi&theme=blueberry&hide_border=false&layout=compact)
 
 ### Languages
   JavaScript/TypeScript, OCaml, Rust, Java, Python, C/C++, Haskell, Go, Ruby, Swift, HTML/CSS, Verilog, RISC-V

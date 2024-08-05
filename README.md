@@ -18,11 +18,10 @@ You can also learn a bit more about me at my <a href="https://kabirsamsi.com" ta
 - Machine Learning \& Data Engineering
 
 ## Tools & Technologies 🔧
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KabirSamsi)](https://github.com/anuraghazra/github-readme-stats)
-
   
-  ### Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KabirSamsi&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  
+### Languages
   JavaScript/TypeScript, OCaml, Rust, Java, Python, C/C++, Haskell, Go, Ruby, Swift, HTML/CSS, Verilog, RISC-V
 
 ### Frameworks/Tools

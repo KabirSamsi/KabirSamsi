@@ -36,6 +36,6 @@ You can view some of my larger public projects on GitHub including <a href="http
 
 I'm currently working on a few projects including the following!
 
-- **[KLaTsL]([url](https://github.com/KabirSamsi/KLaTsL/))**: A functional, typed & interpreted language focused on linear algebra. Introduces an elegant type system and syntax featuring matrix comprehensions & factorizations, typed transformations, dimensional typing and more.
+- **[KLaTsL]([url](https://github.com/KabirSamsi/KLaTsL/))**: A functional, typed & interpreted language focused on linear algebra. Explores liquid typing and the idea of a *dimensional type system*, and presents syntax including matrix comprehensions and typechecked transformations.
 
 - **[Franz]([url](https://github.com/KabirSamsi/franz/))**: A compiled, domain-specific programming language targeted towards compact and modular musical composition, using a medium of text-based musical notation. Compiles to ChucK, an audio production and representation language.

@@ -3,9 +3,9 @@
 - I study CS, Math & Music at Cornell with a concentration in [Programming Languages](https://pl.cs.cornell.edu/).
 - I research the applications \& intersections between programming language theory (PL) and computer architecture at <a href="https://capra.cs.cornell.edu/" target="_blank">CAPRA</a>, and work as a software developer at <a href="https://www.cs.cornell.edu/projects/cms/cmsx/" target="_blank">CMSX</a> and a data analyst at <a href="https://merlin.allaboutbirds.org/" target="_blank">Merlin</a>.
 
-- My interests lie in PL/compilers, algorithms, verified software engineering and combining them to create elegant systems.
+- My interests lie in PL/compilers, algorithms, software engineering/verificatino and combining them to create elegant systems.
 
-- My background is in fullstack development. Presently, I love exploring programming languages (PL), domain-specific languages (DSLs), and compilation between different languages. I also dabble in algorithm design and verified software engineering. I am always searching new for ways to combine PL, ML & SWE with areas ranging from music to ornithology!
+- My background is in fullstack development. Presently, I love exploring programming languages (PL), domain-specific languages (DSLs), and compilation between different languages. I also dabble in algorithm design and software verification. I am always searching new for ways to combine PL, ML & SWE with areas ranging from music to ornithology!
 
 You can always reach me at <a href="mailto:samsikabir@gmail.com" target="_blank">samsikabir@gmail.com</a> or <a href="mailto:kas499@cornell.edu" target="_blank">kas499@cornell.edu</a>! Also feel free stop by my <a href="https://www.linkedin.com/in/kabir-samsi/" target="_blank">LinkedIn</a>.
 

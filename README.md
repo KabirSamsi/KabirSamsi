@@ -12,9 +12,9 @@ You can always reach me at <a href="mailto:samsikabir@gmail.com" target="_blank"
 You can also learn a bit more about me at my <a href="https://kabirsamsi.com" target="_blank">website</a>, and check out my <a href="https://kabirsamsi.com/resume.pdf">resume</a>.
 
 ## Main Skills & Interests 💡
-- Programming Language Theory, DSL Design & Implementation
-- Compilers \& Systems Programming
-- Fullstack \& Software Development
+- Programming Language \& Compiler Design
+- Software Development \& Verification
+- Backend \& Full-Stack Development
 - Machine Learning \& Data Engineering
 
 ## Tools & Technologies 🔧

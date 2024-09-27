@@ -15,7 +15,6 @@ You can also learn a bit more about me at my <a href="https://kabirsamsi.com" ta
 - Programming Language \& Compiler Design
 - Software Development \& Verification
 - Backend \& Full-Stack Development
-- Machine Learning \& Data Engineering
 
 ## Tools & Technologies 🔧
 

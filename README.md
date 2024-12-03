@@ -12,22 +12,21 @@ You can always reach me at <a href="mailto:samsikabir@gmail.com" target="_blank"
 You can also learn a bit more about me at my <a href="https://kabirsamsi.com" target="_blank">website</a>, and check out my <a href="https://kabirsamsi.com/resume.pdf">resume</a>.
 
 ## Main Skills & Interests 💡
-- Programming Language \& Compiler Design
-- Software Development \& Verification
-- Backend \& Full-Stack Development
+- **Research**: Programming Language Theory, Functional Programming, Formal Verification
+- **Practical**: Compiler Design, Full-Stack Development
 
 ## Tools & Technologies 🔧
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KabirSamsi&theme=blueberry&hide_border=false&layout=compact)
 
 ### Languages
-  JavaScript/TypeScript, OCaml, Rust, Java, Python, C/C++, Haskell, Go, Ruby, Swift, HTML/CSS, Verilog, RISC-V
+  JavaScript/TypeScript, OCaml, Rust, Java, Python, C/C++, Haskell, Coq, Go, Ruby, Swift, HTML/CSS, Verilog, RISC-V
 
 ### Frameworks/Tools
   - **Fullstack**: MEAN Stack, React, Ajax, JQuery, JSP/EJS/Pug, Bootstrap, Mongoose, Nginx
   - **Machine Learning**: Flask, Pandas, Numpy, TensorFlow, PyTorch, Keras
   - **Databases**: MongoDB, SQL/PostgreSQL/MariaDB, Neo4j, AWS Lambda
-  - **Other**: LaTeX, Git, Parsers (Menhir, Lalrpop, Yacc, JavaCC), Proof Systems (Coq, Idris)
+  - **Other**: LaTeX, Git, Parsers (Menhir, Lalrpop, Yacc, JavaCC), Automated Theorem Proving
 
 ## Projects 🌱
 You can view some of my larger public projects on GitHub including <a href="https://github.com/Saberchat/saberchat" target="_blank">Saberchat</a> (platform for schools & community organizations) and <a href="https://github.com/KabirSamsi/find-your-bird/" target="_blank">FindYourBird</a> (ID and information site for amateur birders). At some point I'll get them back on the internet.

@@ -1,38 +1,47 @@
 ### Hi there! I'm Kabir.
 
-- I study CS, Math & Music at Cornell with a concentration in [Programming Languages](https://pl.cs.cornell.edu/).
-- I research the applications \& intersections between programming language theory (PL) and computer architecture at <a href="https://capra.cs.cornell.edu/" target="_blank">CAPRA</a>, and work as a software developer at <a href="https://www.cs.cornell.edu/projects/cms/cmsx/" target="_blank">CMSX</a> and a data analyst at <a href="https://merlin.allaboutbirds.org/" target="_blank">Merlin</a>.
+## Background
+- I am a third-year undergrad studying Computer Science, Mathematics & Music at [Cornell University](https://www.cornell.edu/) with a concentration in [Programming Languages (PL)](https://pl.cs.cornell.edu/). I'll be applying to graduate programs next cycle. I love research, teaching and building software.
 
-- My interests lie in PL/compilers, algorithms, software engineering/verification and combining them to create elegant systems.
+- My interests lie in programming languages, compilers, formal verification and turning these into tools for building correct, efficient software. I work heavily within fullstack development, and enjoy playing with algorithms and competitive programming.
 
-- My background is in fullstack development. Presently, I love exploring programming languages (PL), domain-specific languages (DSLs), and compilation between different languages. I also dabble in algorithm design and software verification. I am always searching new for ways to combine PL, ML & SWE with areas ranging from music to ornithology!
+- I am a strong believer that CS is at its best when used hand-in-hand with other areas. I am always searching new for ways to integrate fields ranging from [music](https://github.com/KabirSamsi/franz) to [ornithology](https://github.com/KabirSamsi/find-your-bird)!
 
-You can always reach me at <a href="mailto:samsikabir@gmail.com" target="_blank">samsikabir@gmail.com</a> or <a href="mailto:kas499@cornell.edu" target="_blank">kas499@cornell.edu</a>! Also feel free stop by my <a href="https://www.linkedin.com/in/kabir-samsi/" target="_blank">LinkedIn</a>.
+Feel free to reach out at <a href="mailto:samsikabir@gmail.com" target="_blank">samsikabir@gmail.com</a> or <a href="mailto:kas499@cornell.edu" target="_blank">kas499@cornell.edu</a>.
+You can also learn a bit more about me at my <a href="https://kabirsamsi.com" target="_blank">website</a>.
+For a more in-depth look at my professional background, visit my <a href="https://www.linkedin.com/in/kabir-samsi/" target="_blank">LinkedIn</a>.
 
-You can also learn a bit more about me at my <a href="https://kabirsamsi.com" target="_blank">website</a>, and check out my <a href="https://kabirsamsi.com/resume.pdf">resume</a>.
+## Experience
+- I research programming language theory, formal verification and computer architecture abstractions at <a href="https://capra.cs.cornell.edu/" target="_blank">CAPRA</a>, where I am fortunate to be advised by [Adrian Sampson](https://www.cs.cornell.edu/~asampson/) and [Anshuman Mohan](https://www.cs.cornell.edu/~amohan/).
+
+- I am a senior member \& developer on Cornell's <a href="https://www.cs.cornell.edu/projects/cms/cmsx/" target="_blank">CMSX</a> research \& project team where I am fortunate to be advised by [Andrew Myers](https://www.cs.cornell.edu/andru/).
+
+- I have spent the last three semesters as Head Teaching Assistant of Cornell's [foundational course](https://cs3110.github.io/textbook/chapters/intro/3110.html) in functional programming, theoretical CS and advanced data structures. I priorly taught and assisted teaching at number of organizations and courses.
+
+- I worked for two years as a data analyst \& software engineer at the <a href="https://merlin.allaboutbirds.org/" target="_blank">Cornell Lab Of Ornithology</a>, on the Merlin project.
 
 ## Main Skills & Interests 💡
-- **Research**: Programming Language Theory, Functional Programming, Formal Verification
-- **Practical**: Compiler Design, Full-Stack Development
+- **Research**: Programming Languages, Formal Verification, Functional Programming
+- **Tech**: Compiler Design, Fullstack Development
 
 ## Tools & Technologies 🔧
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KabirSamsi&theme=blueberry&hide_border=false&layout=compact)
 
 ### Languages
-  JavaScript/TypeScript, OCaml, Rust, Java, Python, C/C++, Haskell, Coq, Go, Ruby, Swift, HTML/CSS, Verilog, RISC-V
+  OCaml, Rust, Java, [Coq](https://coq.inria.fr/), Python, JavaScript/TypeScript, C/C++, Haskell, Go, Ruby, Swift, HTML/CSS, Verilog, RISC-V
 
 ### Frameworks/Tools
-  - **Fullstack**: MEAN Stack, React, Ajax, JQuery, JSP/EJS/Pug, Bootstrap, Mongoose, Nginx
+  - **Fullstack**: Node/Express/Angular/React.js, Ajax, JQuery, Bootstrap, Mongoose, Nginx, many template engines (JSP, EJS, Pug etc.)
   - **Machine Learning**: Flask, Pandas, Numpy, TensorFlow, PyTorch, Keras
   - **Databases**: MongoDB, SQL/PostgreSQL/MariaDB, Neo4j, AWS Lambda
-  - **Other**: LaTeX, Git, Parsers (Menhir, Lalrpop, Yacc, JavaCC), Automated Theorem Proving
+  - **Other**: LaTeX, Git, Parser Generators (Menhir, Lalrpop, Yacc, JavaCC)
 
 ## Projects 🌱
 You can view some of my larger public projects on GitHub including <a href="https://github.com/Saberchat/saberchat" target="_blank">Saberchat</a> (platform for schools & community organizations) and <a href="https://github.com/KabirSamsi/find-your-bird/" target="_blank">FindYourBird</a> (ID and information site for amateur birders). At some point I'll get them back on the internet.
 
 I'm currently working on a few projects including the following!
 
-- **[KLaTsL]([url](https://github.com/KabirSamsi/KLaTsL/))**: A functional, typed & interpreted language focused on linear algebra. Explores liquid typing and the idea of a *dimensional type system*, and presents syntax including matrix comprehensions and typechecked transformations.
-
 - **[Franz]([url](https://github.com/KabirSamsi/franz/))**: A compiled, domain-specific programming language targeted towards compact and modular musical composition, using a medium of text-based musical notation. Compiles to ChucK, an audio production and representation language.
+
+- **[KLaTsL]([url](https://github.com/KabirSamsi/KLaTsL/))**: A functional, typed & interpreted language focused on linear algebra. Explores liquid typing and the idea of a *dimensional type system*, and presents syntax including matrix comprehensions and typechecked transformations. **(stale presently)**

@@ -16,7 +16,7 @@ For a more in-depth look at my professional background, visit my <a href="https:
 
 - I am a senior member, developer \& frontend lead on Cornell's <a href="https://www.cs.cornell.edu/projects/cms/cmsx/" target="_blank">CMSX</a> research \& project team, where I am fortunate to be advised by [Andrew Myers](https://www.cs.cornell.edu/andru/).
 
-- I have spent the last three semesters as Head Teaching Assistant of Cornell's [foundational course](https://cs3110.github.io/textbook/chapters/intro/3110.html) in functional programming, theoretical CS and advanced data structures. I priorly taught and assisted teaching at number of organizations and courses.
+- I have spent two years as Head Teaching Assistant of Cornell's [foundational course](https://cs3110.github.io/textbook/chapters/intro/3110.html) in functional programming, theoretical CS and advanced data structures; here I have led the development of assignments and recitation material, taught thousands of students and led multiple generations of course staff. I priorly taught and assisted teaching at number of organizations and courses.
 
 - I worked for two years as a data analyst \& software engineer at the <a href="https://merlin.allaboutbirds.org/" target="_blank">Cornell Lab Of Ornithology</a>, on the Merlin project.
 

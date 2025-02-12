@@ -29,7 +29,7 @@ For a more in-depth look at my professional background, visit my <a href="https:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KabirSamsi&theme=blueberry&hide_border=false&layout=compact)
 
 ### Languages
-  Java, TypeScript, Rust, OCaml, Rust, Python, JavaScript, C, C++, [Coq](https://coq.inria.fr/), Haskell, Go, Ruby, Swift, HTML/CSS, Verilog, RISC-V
+  Java, TypeScript, Rust, OCaml, Python, JavaScript, C, C++, [Coq](https://coq.inria.fr/), Haskell, Go, Ruby, Swift, HTML/CSS, Verilog, RISC-V
 
 ### Frameworks/Tools
   - **Fullstack**: Node.js, Express.js, Angular.js, React.js, Ajax, JQuery, Bootstrap, Nginx, template engines (JSP, EJS, Pug)

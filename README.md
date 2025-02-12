@@ -12,9 +12,9 @@ You can also learn a bit more about me at my <a href="https://kabirsamsi.com" ta
 For a more in-depth look at my professional background, visit my <a href="https://www.linkedin.com/in/kabir-samsi/" target="_blank">LinkedIn</a>.
 
 ## Experience
-- I research programming language theory, formal verification and computer architecture abstractions at <a href="https://capra.cs.cornell.edu/" target="_blank">CAPRA</a>, where I am fortunate to be advised by [Adrian Sampson](https://www.cs.cornell.edu/~asampson/) and [Anshuman Mohan](https://www.cs.cornell.edu/~amohan/).
+- I research programming language \& compiler design, formal verification computer architecture abstractions \& packet scheduling at <a href="https://capra.cs.cornell.edu/" target="_blank">CAPRA</a>, where I am fortunate to be advised by [Adrian Sampson](https://www.cs.cornell.edu/~asampson/) and [Anshuman Mohan](https://www.cs.cornell.edu/~amohan/).
 
-- I am a senior member, developer \& frontend lead on Cornell's <a href="https://www.cs.cornell.edu/projects/cms/cmsx/" target="_blank">CMSX</a> research \& project team, where I am fortunate to be advised by [Andrew Myers](https://www.cs.cornell.edu/andru/).
+- I am a core software engineer and full-stack developer on Cornell's <a href="https://www.cs.cornell.edu/projects/cms/cmsx/" target="_blank">CMSX</a> research \& project team, where I am fortunate to be advised by [Andrew Myers](https://www.cs.cornell.edu/andru/).
 
 - I have spent two years as Head Teaching Assistant of Cornell's [foundational course](https://cs3110.github.io/textbook/chapters/intro/3110.html) in functional programming, theoretical CS and advanced data structures. I priorly taught and assisted teaching at number of organizations and courses.
 
@@ -22,19 +22,19 @@ For a more in-depth look at my professional background, visit my <a href="https:
 
 ## Main Skills & Interests 💡
 - **Research**: Programming Languages, Formal Verification, Functional Programming
-- **Tech**: Compiler Design, Fullstack Development
+- **Engineering**: Compiler Design, Full-stack Development
 
 ## Tools & Technologies 🔧
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KabirSamsi&theme=blueberry&hide_border=false&layout=compact)
 
 ### Languages
-  OCaml, Rust, Java, [Coq](https://coq.inria.fr/), Python, JavaScript/TypeScript, C/C++, Haskell, Go, Ruby, Swift, HTML/CSS, Verilog, RISC-V
+  Java, TypeScript, Rust, OCaml, Rust, Python, JavaScript, C, C++, [Coq](https://coq.inria.fr/), Haskell, Go, Ruby, Swift, HTML/CSS, Verilog, RISC-V
 
 ### Frameworks/Tools
-  - **Fullstack**: Node/Express/Angular/React.js, Ajax, JQuery, Bootstrap, Mongoose, Nginx, template engines (JSP, EJS, Pug)
+  - **Fullstack**: Node.js, Express.js, Angular.js, React.js, Ajax, JQuery, Bootstrap, Nginx, template engines (JSP, EJS, Pug)
   - **Machine Learning**: Flask, Pandas, Numpy, TensorFlow, PyTorch, Keras
-  - **Databases**: MongoDB, SQL/PostgreSQL/MariaDB, Neo4j, AWS Lambda
+  - **Databases**: MongoDB, SQL/PostgreSQL/MariaDB, Neo4j, AWS
   - **Other**: LaTeX, Git, Parser Generators (Menhir, Lalrpop, Yacc, JavaCC)
 
 ## Projects 🌱
@@ -44,4 +44,4 @@ I'm currently working on a few projects including the following!
 
 - **[Franz]([url](https://github.com/KabirSamsi/franz/))**: A compiled, domain-specific programming language targeted towards compact and modular musical composition, using a medium of text-based musical notation. Compiles to ChucK, an audio production and representation language.
 
-- **[KLaTsL]([url](https://github.com/KabirSamsi/KLaTsL/))**: A functional, typed language focused on linear algebra. Explores liquid typing and the idea of a *dimensional type system*, and presents syntax including matrix comprehensions and typechecked transformations. **(stale presently)**
+- **[KLaTsL]([url](https://github.com/KabirSamsi/KLaTsL/))**: A type system linear algebra. Explores liquid typing and the idea of a *dimensional type system*, and presents syntax including matrix comprehensions and typechecked transformations. **(stale presently)**

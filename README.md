@@ -1,7 +1,7 @@
 ### Hi there! I'm Kabir.
 
 ## Background
-- I am a researcher and software engineer, presenetly studying Computer Science, Mathematics & Music at [Cornell University](https://www.cornell.edu/) with a concentration in [Programming Languages (PL)](https://pl.cs.cornell.edu/).
+- I am a researcher and software engineer, presently studying Computer Science, Mathematics & Music at [Cornell University](https://www.cornell.edu/) with a concentration in [Programming Languages (PL)](https://pl.cs.cornell.edu/).
 
 - My interests lie in programming languages, compilers, formal verification and turning these into tools for building correct, efficient software. I work heavily within fullstack development, and dabble in algorithms and competitive programming.
 

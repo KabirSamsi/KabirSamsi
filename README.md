@@ -2,8 +2,8 @@
 
 Nice to meet you! Feel free to reach out at <a href="mailto:samsikabir@gmail.com" target="_blank">samsikabir@gmail.com</a> or <a href="mailto:kas499@cornell.edu" target="_blank">kas499@cornell.edu</a>, or read a bit more about me below!
 
-## Background
-- 👋🏽 Software engineer, researcher, innovator, teacher. I do large-scale software, compilers, machine learning, programming languages and other stuff. I like math, coding, PL, music, birds and sports of all forms as well.
+## Background 👋🏽
+Software engineer, researcher, innovator, teacher. I do large-scale software, compilers, machine learning, programming languages and other stuff. I like math, coding, PL, music, birds and sports of all forms as well.
 
 - 📝 Studying CS, Math & Music at [Cornell University](https://www.cornell.edu/) with a concentration in [Programming Languages (PL)](https://pl.cs.cornell.edu/).
 
@@ -13,7 +13,7 @@ Nice to meet you! Feel free to reach out at <a href="mailto:samsikabir@gmail.com
 
 - 🔬 Researching fast compilers, programming languages and hardware for networking and packet scheduling at [CAPRA](https://github.com/cucapra).
 
-- 🌱 Putting the [fun] in [functional programming](https://cs3110.github.io/textbook/chapters/preface/about.html) since Fall 2023 and for the foreseeable future.
+- 🗣️ Putting the [fun] in [functional programming](https://cs3110.github.io/textbook/chapters/preface/about.html) since Fall 2023 and for the foreseeable future.
 
 For a more in-depth look at what I do, visit my <a href="https://kabirsamsi.com" target="_blank">website</a> or <a href="https://www.linkedin.com/in/kabir-samsi/" target="_blank">LinkedIn</a>.
 

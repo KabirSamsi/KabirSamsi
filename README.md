@@ -5,7 +5,7 @@ Nice to meet you! Feel free to reach out at <a href="mailto:samsikabir@gmail.com
 ## Background 👋🏽
 Software engineer, researcher, innovator, teacher. I do large-scale software, compilers, machine learning, programming languages and other stuff. I like math, computers, PL, music, birds, baking and sports of all forms as well.
 
-- 📝 Studying CS, Math & Music at [Cornell University](https://www.cornell.edu/) with a concentration in [Programming Languages (PL)](https://pl.cs.cornell.edu/).
+- 📝 Studying CS & Math, minoring in Music at [Cornell University](https://www.cornell.edu/) with a concentration in [Programming Languages (PL)](https://pl.cs.cornell.edu/).
 
 - 🧱 Building analytics tools & prediction models for high-frequency trading in event-driven insurance markets at **Cove**.
 

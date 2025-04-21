@@ -1,6 +1,6 @@
 ### Hi there! I'm Kabir.
 
-Nice to meet you! Feel free to reach out at <a href="mailto:samsikabir@gmail.com" target="_blank">samsikabir@gmail.com</a> or <a href="mailto:kas499@cornell.edu" target="_blank">kas499@cornell.edu</a>, or read a bit more about me below!
+Feel free to reach out at <a href="mailto:samsikabir@gmail.com" target="_blank">samsikabir@gmail.com</a> or <a href="mailto:kas499@cornell.edu" target="_blank">kas499@cornell.edu</a>, or read a bit more about me below!
 
 ## Background 👋🏽
 Software engineer, researcher, innovator, teacher. I do large-scale software, compilers, machine learning, programming languages and other stuff. I like math, computers, PL, music, birds, baking and sports of all forms as well.

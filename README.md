@@ -7,7 +7,7 @@ Software engineer, researcher, innovator, teacher. I do large-scale software, co
 
 - 📝 Studying CS, Math & Music at [Cornell University](https://www.cornell.edu/) with a concentration in [Programming Languages (PL)](https://pl.cs.cornell.edu/).
 
-- 🧱 Building analytics tools and prediction models for high-frequency trading with event-driven insurance derivatives markets at **Cove**.
+- 🧱 Building analytics tools & prediction models for high-frequency trading in event-driven insurance derivatives markets at **Cove**.
 
 - 🧱 Taking Cornell's course management software to new heights with [CMSX](https://cmsx.cs.cornell.edu/web/guest/).
 

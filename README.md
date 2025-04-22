@@ -9,7 +9,7 @@ Software engineer, researcher, innovator, teacher. I do large-scale software, co
 
 - 🧱 Building analytics tools & prediction models for high-frequency trading in event-driven insurance markets at **Cove**.
 
-- 🧱 Taking Cornell's course management software to new heights with [CMSX](https://cmsx.cs.cornell.edu/web/guest/).
+- 🧱 Taking Cornell's course management software to new heights with [CMSX](https://www.cs.cornell.edu/projects/cms/cmsx/).
 
 - 🔬 Researching fast compilers, programming languages and hardware for networking and packet scheduling at [CAPRA](https://github.com/cucapra).
 

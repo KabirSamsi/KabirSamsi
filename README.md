@@ -23,7 +23,7 @@ For a more in-depth look at what I do, visit my <a href="https://kabirsamsi.com"
   Java, TypeScript, Rust, OCaml, Python, C++, JavaScript, C, [Coq](https://coq.inria.fr/), Haskell, Go, Ruby, Swift, HTML/CSS, Verilog, Assembly
 
 ### Frameworks/Tools
-  - **Fullstack**: MERN, Vue, Ajax, Angular, Nginx, SQL/AWS, template engines (JSP, EJS)
+  - **Fullstack**: React, Node, Express, Angular, Vue, Ajax, Angular, Nginx, MongODB, SQL/AWS, template engines (JSP, EJS)
   - **Machine Learning**: PyTorch, TensorFlow, Numpy, Pandas, Keras
   - **Other**: LaTeX, Git, Parsers (Menhir, Lalrpop, Yacc, JavaCC)
 

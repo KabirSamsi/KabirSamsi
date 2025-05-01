@@ -13,7 +13,7 @@ Software engineer, researcher, innovator, teacher. I do large-scale software, co
 
 - 🔬 Researching fast compilers, programming languages and hardware for networking and packet scheduling at [CAPRA](https://github.com/cucapra).
 
-- 🗣️ Putting [fun] in [functional programming](https://cs3110.github.io/textbook/chapters/preface/about.html) (FA23-SP25). Raising critters at Cornell's [Honors Data Structures & OOP course](https://www.cs.cornell.edu/courses/cs2112/2024fa/) (FA25-).
+- 🗣️ Putting [fun] in [functional programming](https://cs3110.github.io/textbook/chapters/preface/about.html) (FA23-SP25). Raising critters @ Cornell's [Honors Data Structures & OOP course](https://www.cs.cornell.edu/courses/cs2112/2024fa/) (FA25-).
 
 For a more in-depth look at what I do, visit my <a href="https://kabirsamsi.com" target="_blank">website</a> or <a href="https://www.linkedin.com/in/kabir-samsi/" target="_blank">LinkedIn</a>.
 

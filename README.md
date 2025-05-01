@@ -20,12 +20,12 @@ For a more in-depth look at what I do, visit my <a href="https://kabirsamsi.com"
 ## Tools & Technologies 🔧
 
 ### Languages
-  Java, TypeScript, Rust, OCaml, Python, C++, JavaScript, C, [Coq](https://coq.inria.fr/), Haskell, Go, Ruby, Swift, HTML/CSS, Verilog, Assembly
+  Java, TypeScript, Rust, OCaml, Python, C++, JavaScript, C, [Coq](https://coq.inria.fr/), Haskell, Go, Ruby, HTML/CSS, Verilog, Assembly
 
 ### Frameworks/Tools
   - **Fullstack**: React, Node, Express, Angular, Vue, Ajax, Angular, Nginx, MongODB, SQL/AWS, template engines (JSP, EJS)
   - **Machine Learning**: PyTorch, TensorFlow, Numpy, Pandas, Keras
-  - **Other**: LaTeX, Git, Parsers (Menhir, Lalrpop, Yacc, JavaCC)
+  - **Other**: LaTeX, Git, LLVM, Parsers (Menhir, Lalrpop, Yacc, JavaCC)
 
 ## Projects 🌱
 Check some of my larger public projects on GitHub including <a href="https://github.com/Saberchat/saberchat" target="_blank">Saberchat</a> (platform for schools & community organizations) and <a href="https://github.com/KabirSamsi/find-your-bird/" target="_blank">FindYourBird</a> (ID and information site for amateur birders). At some point I'll get them back on the internet. In my spare time, I like to hack on:

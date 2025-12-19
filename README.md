@@ -28,4 +28,5 @@ For a more in-depth look at what I do, visit my <a href="https://kabirsamsi.com"
 ## Projects 🌱
 Check some of my larger public projects on GitHub including <a href="https://github.com/Saberchat/saberchat" target="_blank">Saberchat</a> (platform for schools & community organizations) and <a href="https://github.com/KabirSamsi/find-your-bird/" target="_blank">FindYourBird</a> (ID and information site for amateur birders). At some point I'll get them back on the internet. In my spare time, I like to hack on:
 
-- **[Franz]([url](https://github.com/KabirSamsi/franz/))**: An intermediate language for music notation. Compiles to ChucK, an audio production and representation language.
+- **[Franz]([url](https://github.com/KabirSamsi/franz/))**: An IR for music notation. Compiles to ChucK, an audio production and representation language.
+- **[Calyx](https://github.com/calyxir/calyx)**: An IR for hardware accelerators (open-source). I add optimizations and widgets to the syntax and embedded DSL from time to time.

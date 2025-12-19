@@ -11,7 +11,7 @@ I like compilers, machine learning, programming languages, math and other stuff;
 
 - 🔬 Researching compilers, programming languages and hardware for networking and packet scheduling at [CAPRA](https://github.com/cucapra).
 
-- 🗣️ Putting [fun] in [functional programming](https://cs3110.github.io/textbook/chapters/preface/about.html) (FA23-SP25). Raising critters at Cornell's [Honors DS & OOP course](https://www.cs.cornell.edu/courses/cs2112/2024fa/) (FA25-).
+- 👨🏽‍🏫 Putting [fun] in [functional programming at Cornell](https://cs3110.github.io/textbook/chapters/preface/about.html) (FA23-SP25). Raising critters at Cornell's [Honors DS & OOP course](https://www.cs.cornell.edu/courses/cs2112/2024fa/) (FA25). Teaching people who know much more than I do [how to build great software at Cornell](https://www.cs.cornell.edu/courses/cs5150/2025sp/) (SP26).
 
 For a more in-depth look at what I do, visit my <a href="https://kabirsamsi.com" target="_blank">website</a> or <a href="https://www.linkedin.com/in/kabir-samsi/" target="_blank">LinkedIn</a>.
 

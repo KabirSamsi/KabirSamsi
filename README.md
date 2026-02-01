@@ -3,9 +3,9 @@
 Feel free to reach out at <a href="mailto:samsikabir@gmail.com" target="_blank">samsikabir@gmail.com</a> or <a href="mailto:kas499@cornell.edu" target="_blank">kas499@cornell.edu</a>, or read a bit more about me below!
 
 ## Background 👋🏽
-I like compilers, machine learning, programming languages, math and other stuff; I also enjoy in fullstack development. I'm fond of music, birds, baking and sports of all forms as well. I am:
+I like compilers, machine learning, programming languages, math and other stuff; I also work a fair bith in fullstack development. I'm fond of music, birds, baking and sports of all forms as well. I am:
 
-- 📝 Studying CS & Math, minoring in Music at [Cornell University](https://www.cornell.edu/) with a concentration in [Programming Languages (PL)](https://pl.cs.cornell.edu/).
+- 📝 Studying CS & Math, minoring in Music at [Cornell University](https://www.cornell.edu/) with a concentration in [Programming Languages (PL)](https://pl.cs.cornell.edu/). I graduate in May 2026.
 
 - 🧱 Leading the development of Cornell's course management software with [CMSX](https://www.cs.cornell.edu/projects/cms/cmsx/).
 
@@ -18,12 +18,13 @@ For a more in-depth look at what I do, visit my <a href="https://kabirsamsi.com"
 ## Tools & Technologies 🔧
 
 ### Languages
-  Java, TypeScript, Rust, OCaml, Python, C++, JavaScript, C, [Coq](https://coq.inria.fr/), Haskell, Go, Ruby, HTML/CSS, Verilog, Assembly (RISC-V, x86)
+  Java, C++, TypeScript, Rust, Python, OCaml, JavaScript, C, Haskell, Go, Ruby, HTML/CSS, Verilog, Assembly (RISC-V, x86), [Rocq Prover](https://coq.inria.fr/)
 
 ### Frameworks/Tools
-  - **Fullstack**: React, Node, Express, Angular, Vue, Ajax, Angular, Nginx, MongODB, SQL/AWS, template engines (JSP, EJS)
-  - **Machine Learning**: PyTorch, TensorFlow, Pandas
-  - **Other**: LaTeX, Git, LLVM, MLIR
+  - **Fullstack**: React, Node, Express, Angular, Vue, AJAX, Angular, Nginx, MongODB, SQL/AWS, template engines (JSP, EJS)
+  - **Machine Learning/Data Engineering**:  PyTorch, TensorFlow/Keras, Pandas, MapReduce, ScikitLearn, Hugging Face
+  - **Compiler and GPU Toolchains**: LLVM, MLIR, CUDA
+  - **Other**: LaTeX, Git
 
 ## Projects 🌱
 Check some of my larger public projects on GitHub including <a href="https://github.com/Saberchat/saberchat" target="_blank">Saberchat</a> (platform for schools & community organizations) and <a href="https://github.com/KabirSamsi/find-your-bird/" target="_blank">FindYourBird</a> (ID and information site for amateur birders). At some point I'll get them back on the internet. In my spare time, I like to hack on:

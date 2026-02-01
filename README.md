@@ -3,7 +3,7 @@
 Feel free to reach out at <a href="mailto:samsikabir@gmail.com" target="_blank">samsikabir@gmail.com</a> or <a href="mailto:kas499@cornell.edu" target="_blank">kas499@cornell.edu</a>, or read a bit more about me below!
 
 ## Background 👋🏽
-I like compilers, machine learning, programming languages, math and other stuff; I also work a fair bith in fullstack development. I'm fond of music, birds, baking and sports of all forms as well. I am:
+I like compilers, machine learning, programming languages, math and other stuff; I also dabble a fair bit in fullstack development. I'm fond of music, birds, baking and sports of all forms as well. I am:
 
 - 📝 Studying CS & Math, minoring in Music at [Cornell University](https://www.cornell.edu/) with a concentration in [Programming Languages (PL)](https://pl.cs.cornell.edu/). I graduate in May 2026.
 

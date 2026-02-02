@@ -3,15 +3,17 @@
 Feel free to reach out at <a href="mailto:samsikabir@gmail.com" target="_blank">samsikabir@gmail.com</a> or <a href="mailto:kas499@cornell.edu" target="_blank">kas499@cornell.edu</a>, or read a bit more about me below!
 
 ## Background 👋🏽
-I like compilers, machine learning, programming languages, math and other stuff; I also dabble a fair bit in fullstack development. I'm fond of music, birds, baking and sports of all forms as well. I am:
+I like compilers, machine learning, programming languages, math and other stuff; I also dabble a fair bit in fullstack development. I'm fond of music, birds, baking and sports of all forms as well.
 
-- 📝 Studying CS & Math, minoring in Music at [Cornell University](https://www.cornell.edu/) with a concentration in [Programming Languages (PL)](https://pl.cs.cornell.edu/). I graduate in May 2026.
+👨🏽‍💻 I will join **<a href="https://www.qualcomm.com/">Qualcomm</a>'s Compiler Labs** as a research engineer on the Machine Learning Compiler Development team this July.
 
-- 🧱 Leading the development of Cornell's course management software with [CMSX](https://www.cs.cornell.edu/projects/cms/cmsx/).
+👨🏽‍🎓 I graduate from **<a href="https://www.cornell.edu/">Cornell University</a>** this May. I studied CS & Math, minoring in Music at [Cornell University](https://www.cornell.edu/) with a concentration in [Programming Languages (PL)](https://pl.cs.cornell.edu/). While there, I have worked on a couple of fun things:
 
-- 🔬 Researching compilers, programming languages and hardware for networking and packet scheduling at [CAPRA](https://github.com/cucapra).
+- 🧱 Led the development of Cornell's course management software at [CMSX](https://www.cs.cornell.edu/projects/cms/cmsx/) with <a href="https://www.cs.cornell.edu/andru/">Dr. Andrew Myers</a>.
 
-- 👨🏽‍🏫 Putting [fun] in [functional programming at Cornell](https://cs3110.github.io/textbook/chapters/preface/about.html) (FA23-SP25). Raising critters at Cornell's [Honors DS & OOP course](https://www.cs.cornell.edu/courses/cs2112/2024fa/) (FA25). Teaching people who know much more than I do [how to build great software at Cornell](https://www.cs.cornell.edu/courses/cs5150/2025sp/) (SP26).
+- 🔬 Researched compilers, programming languages and hardware for networking and packet scheduling at [CAPRA](https://github.com/cucapra) with <a href="https://www.cs.cornell.edu/~asampson/">Dr. Adrian Sampson</a> and <a href="https://www.cs.cornell.edu/~amohan/">Anshuman Mohan</a>.
+
+- 👨🏽‍🏫 Put [fun] in [functional programming at Cornell](https://cs3110.github.io/textbook/chapters/preface/about.html) (FA23-SP25). Raised critters at Cornell's [Honors DS & OOP course](https://www.cs.cornell.edu/courses/cs2112/2024fa/) (FA25). Taught people who know much more than I do [how to build great software at Cornell](https://www.cs.cornell.edu/courses/cs5150/2026sp/) (SP26).
 
 For a more in-depth look at what I do, visit my <a href="https://kabirsamsi.com" target="_blank">website</a> or <a href="https://www.linkedin.com/in/kabir-samsi/" target="_blank">LinkedIn</a>.
 

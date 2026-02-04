@@ -7,7 +7,7 @@ I like compilers, machine learning, programming languages, math and other stuff;
 
 👨🏽‍💻 I will join **<a href="https://www.qualcomm.com/">Qualcomm</a>'s Compiler Labs** on their Machine Learning Compiler Development team this July.
 
-👨🏽‍🎓 I graduate from **<a href="https://www.cornell.edu/">Cornell University</a>** this May. I studied CS & Math, minoring in Music at [Cornell University](https://www.cornell.edu/) with a concentration in [Programming Languages (PL)](https://pl.cs.cornell.edu/). While there, I have worked on a couple of fun things:
+👨🏽‍🎓 I graduate from **<a href="https://www.cornell.edu/">Cornell University</a>** this May. I studied CS & Math, minoring in Music with a concentration in [Programming Languages (PL)](https://pl.cs.cornell.edu/). While there, I have worked on a couple of fun things:
 
 - 🧱 Led the development of Cornell's course management software at [CMSX](https://www.cs.cornell.edu/projects/cms/cmsx/) with <a href="https://www.cs.cornell.edu/andru/">Dr. Andrew Myers</a>.
 

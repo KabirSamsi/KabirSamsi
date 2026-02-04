@@ -20,12 +20,12 @@ For a more in-depth look at what I do, visit my <a href="https://kabirsamsi.com"
 ## Tools & Technologies 🔧
 
 ### Languages
-  Java, C++, TypeScript, Rust, Python, OCaml, JavaScript, C, Haskell, Go, Ruby, HTML/CSS, Verilog, Assembly (RISC-V, x86), [Rocq Prover](https://coq.inria.fr/)
+  Java, C++, TypeScript, Rust, Python, OCaml, JavaScript, C, Haskell, Go, Ruby, HTML/CSS, Verilog, Assembly (RISC-V, x86)
 
 ### Frameworks/Tools
   - **Fullstack**: React, Node, Express, Angular, Vue, AJAX, Angular, Nginx, MongODB, SQL/AWS, template engines (JSP, EJS)
-  - **Machine Learning/Data Engineering**:  PyTorch, TensorFlow/Keras, Pandas, MapReduce, ScikitLearn, Hugging Face
-  - **Compiler and GPU Toolchains**: LLVM, MLIR, CUDA
+  - **Machine Learning \& Data Engineering**:  PyTorch, TensorFlow/Keras, Pandas, MapReduce, ScikitLearn, Hugging Face
+  - **Compiler \& Language Toolchains**: LLVM, MLIR, CUDA, [Rocq Prover](https://coq.inria.fr/), Parser Generators
   - **Other**: LaTeX, Git
 
 ## Projects 🌱

@@ -5,7 +5,7 @@ Feel free to reach out at <a href="mailto:samsikabir@gmail.com" target="_blank">
 ## Background 👋🏽
 I like compilers, machine learning, programming languages, math and other stuff; I also dabble a fair bit in fullstack development. I'm fond of music, birds, baking and sports of all forms as well.
 
-👨🏽‍💻 I will join **<a href="https://aihub.qualcomm.com/">Qualcomm</a>'s Compiler Labs** as a research/software engineer on the Machine Learning Compilers team this July.
+👨🏽‍💻 I will join **<a href="https://aihub.qualcomm.com/">Qualcomm</a>'s Machine Learning Compilers Team** as a research/software engineer this July in New York City.
 
 👨🏽‍🎓 I graduate from **<a href="https://www.cornell.edu/">Cornell University</a>** this May. I studied CS & Math with a concentration in [Programming Languages (PL)](https://pl.cs.cornell.edu/). While there, I have worked on a couple of fun things:
 

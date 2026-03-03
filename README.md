@@ -17,7 +17,7 @@ For a more in-depth look at what I do, visit my <a href="https://kabirsamsi.com"
 ## Tools & Technologies 🔧
 
 ### Languages
-  C++, Java, Rust, Python, OCaml, TypeScript/JavScript, C, Haskell, Swift, Ruby, HTML/CSS, Assembly (RISC-V, x86)
+  C++, Java, Rust, Python, OCaml, TypeScript, C, Haskell, Swift, Ruby, HTML/CSS, Assembly (RISC-V, x86)
 
 ### Frameworks/Tools
   - **Fullstack**: React, Node, Express, Angular, Vue, AJAX, Angular, Nginx, MongODB, SQL/AWS, template engines (JSP, EJS)

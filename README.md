@@ -1,8 +1,5 @@
-### Hi there! I'm Kabir.
+## Hi there! I'm Kabir.
 
-Feel free to reach out at <a href="mailto:samsikabir@gmail.com" target="_blank">samsikabir@gmail.com</a> or <a href="mailto:kas499@cornell.edu" target="_blank">kas499@cornell.edu</a>, or read a bit more about me below!
-
-## Background 👋🏽
 I like compilers, machine learning, programming languages, math and other stuff; I also dabble a fair bit in fullstack development. I'm fond of music, birds, baking and sports of all forms as well.
 
 👨🏽‍💻 I will join **<a href="https://aihub.qualcomm.com/">Qualcomm</a>'s Machine Learning Compilers Team** as a research/software engineer this July in New York City.
@@ -20,12 +17,12 @@ For a more in-depth look at what I do, visit my <a href="https://kabirsamsi.com"
 ## Tools & Technologies 🔧
 
 ### Languages
-  Java, C++, TypeScript, Rust, Python, OCaml, JavaScript, C, Haskell, Go, Ruby, HTML/CSS, Verilog, Assembly (RISC-V, x86)
+  C++, Java, Rust, Python, OCaml, TypeScript/JavScript, C, Haskell, Swift, Ruby, HTML/CSS, Assembly (RISC-V, x86)
 
 ### Frameworks/Tools
   - **Fullstack**: React, Node, Express, Angular, Vue, AJAX, Angular, Nginx, MongODB, SQL/AWS, template engines (JSP, EJS)
   - **Machine Learning \& Data Engineering**:  PyTorch, TensorFlow/Keras, Pandas, MapReduce, ScikitLearn, Hugging Face
-  - **Compiler \& Language Toolchains**: LLVM, MLIR, CUDA, [Rocq Prover](https://coq.inria.fr/), Parser Generators
+  - **Compiler \& Language Toolchains**: LLVM, MLIR, CUDA, [Rocq Prover](https://coq.inria.fr/), Verilog, Parser Generators
   - **Other**: LaTeX, Git
 
 ## Projects 🌱

@@ -20,8 +20,8 @@ For a more in-depth look at what I do, visit my <a href="https://kabirsamsi.com"
   C++, Java, Rust, Python, TypeScript, C, OCaml, Scala, Kotlin, Haskell, Swift, Ruby, Assembly (RISC-V, x86), HTML, CSS
 
 ### Frameworks/Tools
-  - **Fullstack**: React, Vue, Node, Express, Angular, AJAX, Flask, MongoDB, SQL, Bootstrap, template engines (JSP, EJS)
-  - **Machine Learning \& Data Engineering**:  PyTorch, TensorFlow/Keras, Pandas, MapReduce, ScikitLearn, Hugging Face
+  - **Fullstack**: React, Vue, Node, Express, Angular, AJAX, Flask, Bootstrap, template engines (JSP, EJS)
+  - **ML/Data**:  PyTorch, TensorFlow/Keras, SQL, MongoDB, Pandas, MapReduce, ScikitLearn, Hugging Face
   - **Compiler \& Language Toolchains**: LLVM, MLIR, CUDA, [Rocq Prover](https://coq.inria.fr/), Verilog, Parser Generators
   - **Other**: LaTeX, Git
 

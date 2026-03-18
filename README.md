@@ -26,7 +26,7 @@ For a more in-depth look at what I do, visit my <a href="https://kabirsamsi.com"
 ### Frameworks/Tools
   - **Fullstack**: React, Vue, Node, Express, Angular, AJAX, Flask, Bootstrap, template engines (JSP, EJS)
   - **ML/Data**:  PyTorch, TensorFlow/Keras, SQL, MongoDB, Pandas, MapReduce, ScikitLearn, Hugging Face
-  - **Systems/Compiler**: LLVM, MLIR, CUDA, Triton, [Rocq Prover](https://coq.inria.fr/), Assembly (RISC-V, x86), Verilog, Parser Generators
+  - **Systems/Compilers**: LLVM, MLIR, CUDA, Triton, [Rocq Prover](https://coq.inria.fr/), Assembly (RISC-V, x86), Verilog, Parser Generators
   - **Other**: LaTeX, Docker, Git, Nginx
 
 ## Projects 🌱

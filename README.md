@@ -2,7 +2,7 @@
 
 ### About Me
 
-- I like compilers, machine learning, programming languages, math and other stuff; I also dabble a fair bit in fullstack development. In particular, I work on designing abstractions that make life easier for both humans & hardware.
+- I like compilers, machine learning, programming languages, math and other stuff; I also dabble a fair bit in fullstack development. Broadly, I like software abstractions that make life easier for both humans & hardware.
 
 - 👨🏽‍💻 I will join **<a href="https://aihub.qualcomm.com/">Qualcomm</a>'s Machine Learning Compilers Team** as a research/software engineer this July.
 

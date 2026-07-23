@@ -4,9 +4,9 @@
 
 - I like compilers, machine learning, programming languages, math and other stuff; I also dabble a fair bit in fullstack development. Broadly, I like software abstractions that make life easier for both humans & hardware.
 
-- 👨🏽‍💻 I will join **<a href="https://aihub.qualcomm.com/">Qualcomm</a>'s Machine Learning Compilers Team** as a research/software engineer this July.
+- 👨🏽‍💻 I currently work on machine learning compilers at <a href="https://qualcomm.com/">Qualcomm</a>. My work includes optimizing PyTorch compilers and inference compilers within the [AI Cloud Suite](https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra").
 
-- 👨🏽‍🎓 I graduate from **<a href="https://www.cornell.edu/">Cornell University</a>** this May. I studied CS & Math with a concentration in [Programming Languages (PL)](https://pl.cs.cornell.edu/). While there, I have worked on a couple of fun things:
+- 👨🏽‍🎓 I studied CS & Math at **<a href="https://www.cornell.edu/">Cornell University</a>**. with a concentration in [Programming Languages (PL)](https://pl.cs.cornell.edu/). While there, I worked on a couple of fun things:
 
   - 🧱 Led the development of Cornell's course management software at [CMSX](https://www.cs.cornell.edu/projects/cms/cmsx/) with <a href="https://www.cs.cornell.edu/andru/">Dr. Andrew Myers</a>.
 

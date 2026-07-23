@@ -16,7 +16,7 @@
 
 I'm fond of music, birds, linguistics, baking and sports of all forms as well.
 
-For a more in-depth look at what I do, visit my <a href="https://kabirsamsi.com" target="_blank">website</a> or <a href="https://www.linkedin.com/in/kabir-samsi/" target="_blank">LinkedIn</a>.
+For a more in-depth look at what I do, visit my website <a href="https://kabirsamsi.com" target="_blank">kabirsamsi.com</a>. Feel free to connect with me over <a href="https://www.linkedin.com/in/kabir-samsi/" target="_blank">LinkedIn</a>.
 
 ## Tools & Technologies 🔧
 
